@@ -259,210 +259,222 @@ Le rouleau de 500m de sac coûte de 500€ à 1000€, et avec ça on fait bien 
 
 - Niveler le terrain afin qu´il soit complètement plat
 - Tracer un cercle au sol par l´intermédiaire d´un pic placé au centre relié à un fil qui en tournant tracera la circonférence du cercle. Les formes ciculaires conviennent mieux à la technique du superadobe pour des raisons de stabilité.
-![tracer le cercle](pictures/trace cercle.jpg)
+![tracer le cercle](pictures/traceCercle.jpg)
 - Mettre en place les fondations en remplissant des sacs en nylon ou en toile (usuels pour stocker l´alimentation) avec un mélange de 1/3 de ciment et de 2/3 de sable.
+![remplir le sac](pictures/remplissagesSacs.jpg )
 - Bien tasser
+![aplanir](pictures/aplanir.jpg )
 - Arroser la première couche constituée par le premier sac de la fondation avec de l´eau de façon à ce que le ciment prenne
 - Mettre un barbelé au-dessus du sac pour éviter les mouvements latéraux du prochain sac, superposé à ce premier
+![pose de barbelé](pictures/mettreBarbele.jpg)
 - Remplir des sacs en nylon avec de la terre
 - Compacter
 - Mettre un barbelé au-dessus du sac
-- Répéter jusqu´au haut du mur
+- Répéter jusqu'a la hauteur souhaitée
 
-Si le mur est incurvé selon un arc, la toiture sera faite de sac de terre et le procédé constructif pour obtenir l´inclination sera le suivant:
+En incurvant selon un arc, la toiture peut être faite de sac de terre. On pourra fabriquer un arc de cercle ou un cadre en bois par exemple qui viendra soutenir les arcs.
 
-On pourra faire un arc de cercle ou un cadre en bois par exemple qui viendra soutenir les arcs.
+![toit incurvé](pictures/toitIncurve.jpg)
 
 Pour renforcer la terre et la rendre aussi résistante que le béton, il est possible de faire un grand feu à l´intérieur du dôme une fois la construction finie pour obtenir des murs en terre cuite.
 
-Recouvrir  le tout d´une bâche imperméabilisante pour éviter que l´eau ne s´infiltre dans les fondations au cours du temps.
+Recouvrir le tout d´une bâche imperméabilisante pour éviter que l´eau ne s´infiltre dans les fondations au cours du temps.
 
 Les murs peuvent également s´édifier sur des fondations en pierres.
 
+![fondations en pierres](pictures/fondationsPierres.jpg)
 
+### La maison en paille
 
+Un peu plus cher mais bien mieux que n’importe quelle maison conventionnelle. C’est plus cher à cause de la structure en bois mais si vous avez l’argent pour l’acheter ou la possibilité de le trouver gratuitement c’est parfait. Vous pouvez aussi y construire en rond, et là pas besoin de structure.
 
-Un peu plus cher, mais mieux isolé, (bien mieux que n’importe quelle maison conventionnelle) la
-maison en botte de paille. (C’est plus cher à cause de la structure en bois mais si vous avez l’argent
-pour l’acheter ou la possibilité de le trouver gratuitement c’est vraiment parfait, ou alors vous
-construisez en rond, et là pas besoin de structure) ça se monte tout seul, en quelque jours, mais il
-faut faire le toit avant les murs (ou bien bâcher contre la pluie pendant la construction)
+Cela se monte tout seul, en quelque jours, mais il faut faire le toit avant les murs (ou bien bâcher contre la pluie pendant la construction)
+
 http://fr.wikipedia.org/wiki/Maison_en_paille
-Dans la catégorie vraiment pas cher du tout
-et tout simple : le mur en palette et en bois de récup.
-Vous remplissez de paille, vous enduisez d’un mélange argile/sciure/chaux sur les deux côtés et
-vous avez des murs isolés, jolis et montés en un clin d’œil.
+
+Vous pouvez construire le mur en palette de récupération. Vous les remplissez de paille, vous enduisez d’un mélange argile/sciure/chaux sur les deux côtés et vous avez des murs isolés, jolis et montés en un clin d’œil.
 http://www.habitat-eco-responsable.fr/2008/11/la-maison-palette/
-Pour finir avec les maisons, dans la catégorie des fous, ou des génies, on sait pas, un petit
-documentaire amusant et instructif
-: La construction en recyclage de poubelle de l’architecte 
-Mike
-Reynolds le «
-garbage warrior
-»
-. Si l’auto construction pas cher vous intéresse je vous conseille de
-regarder ça
-:
-http://www.youtube.com/watch?v=YrMJwIedrWU
-Le documentaire est en anglais mais je l’avais déjà trouvé sous-titré. A vous de le chercher.
-Une dernière petite technique de récup, pour faire les fondations
-: les vieux pneus de voiture,
-remplis de terre et de chaux à la masse, bien tassé, c’est très solide et ça ne bouge pas. Si le néo-
-classique vous tente on peut aussi imaginer faire des colonnades avec. Une fois enduit ça peut le
-faire.
-http://www.lamaisondurable.com/2009/06/fondation-pneu-tassement.html
-LE TOIT
-:
-Là-dessus, je n’ai encore rien trouvé de très bon marché, à part pour l’éco-dôme mais justement
-parce qu’il n’y a pas de toit. Le dôme est tout simplement enduit à la chaux et lissé.
-A moins que vous ayez un four capable de chauffer à plus de 1000C°, vous ne pourrez pas faire de
-tuiles en terre cuite. Mais il reste le 
-tavaillon
-, la tuile en bois. C’est étanche, ça dure longtemps,
-facile à faire et à monter, pas cher et vous pouvez facilement changer quelques tuiles en cas de
-problème. Puis ça donne tout de suite un aspect sympathique. 
-Le problème sera pour la récupération d’eau de pluie si vous avez traité le bois (mais ce n’est pas
-obligé non plus puisque l’eau n’est pas stagnante). A moins que vous ne traitiez avec un produit
-naturel ou que vous preniez un bois imputrescible comme le cèdre ou le pin rouge. (Mais c’est tout
-de suite beaucoup plus cher.)
- On peut aussi en recouvrir les murs si on trouve ça joli.
+
+### Les fondations
+
+Une dernière petite technique de récupération, pour faire les fondations il est possible d'utiliser de vieux pneus de voiture, remplis de terre et de chaux à la masse, bien tassé, c’est très solide et ça ne bouge pas. 
+
+Si le néo-classique vous tente on peut aussi imaginer faire des colonnades avec. Une fois enduit ça peut le faire.
+
+### Le toit
+
+Inutile pour l’éco-dôme justement parce qu’il n’y a pas de toit. Le dôme est tout simplement enduit à la chaux et lissé.
+
+#### En terre cuite
+
+A moins que vous ayez un four capable de chauffer à plus de 1000C°, vous ne pourrez pas faire de tuiles en terre cuite.
+
+#### Tavaillon
+
+Il reste le tavaillon, la tuile en bois. C’est étanche, ça dure une vingtaine d'année, facile à faire et à monter, pas cher et vous pouvez facilement changer quelques tuiles en cas de problème. Puis ça donne tout de suite un aspect sympathique. 
+
+Comme l’eau n’est pas stagnante il n'est pas néccéssaire de traiter le bois. Vous aurez des problèmes pour la récupération d’eau de pluie si vous décidez de traiter le bois quand même, à moins que vous ne traitiez avec un produit naturel.
+
+On peut aussi en recouvrir les murs si on trouve ça joli.
 http://fr.wikipedia.org/wiki/Tavaillon
-La toiture végétale est aussi une solution, mais ça prend du temps et ça demande des matériaux
-qu’on est obligé d’acheter. Voilà un site qui répertorie les différentes toitures. C’est aussi comme ça
-qu’on fait une maison de Hobbit.
-http://www.be-green.com/fr/news/eco/autoconstruction-toiture-vegetalisee-de-la-conception-a-la-
-realisation-_62/
-La tôle, tout le monde comprend le concept... Ce n’est pas joli, mais pour la récupération d’eau
-c’est parfait et pas cher, puis c’est très rapide à poser.
-Le toit terrasse
-: c’est de loin le plus compliqué à construire sous nos climats humides. Pas
-forcément le plus
- cher, juste le plus compliqué, mais
- ça peut être très chouette pour prendre
-l’apéro ^^ Voilà deux forums
-:
-http://www.maisons-et-bois.com/discussions/viewtopic.php?pid=146675
-http://www.forumconstruire.com/construire/topic-163092.php
-Dans le deuxième ils parlent du prix.
+
+#### Toiture végétale
+
+La toiture végétale est aussi une solution, mais ça prend du temps et ça demande des matériaux qu’on est obligé d’acheter. Voilà [un site](http://www.be-green.com/fr/news/eco/autoconstruction-toiture-vegetalisee-de-la-conception-a-la-realisation-_62/) qui répertorie les différentes toitures. C’est aussi comme ça qu’on fait une maison de Hobbit.
+
+#### La tôle
+
+La tôle, tout le monde comprend le concept... Ce n’est pas joli, mais pour la récupération d’eau c’est parfait (à vérifier que ça ne pollue pas l'eau) et c'est pas cher, puis c’est très rapide à poser.
+
+#### Le toit terrasse
+c’est de loin le plus compliqué à construire sous nos climats humides. Pas forcément le plus cher, juste le plus compliqué, mais ça peut être très chouette pour prendre l’apéro ^^
+- http://www.maisons-et-bois.com/discussions/viewtopic.php?pid=146675
+- http://www.forumconstruire.com/construire/topic-163092.php
+
+Dans le deuxième ils abordent la question du prix.
+
+## l'eau
+
 Bon, maintenant que vous avez bien travaillé, vous avez votre maison, et vous prendrez bien un
-petit verre (d’eau bien sur, on n’est pas des sauvages... Quoi qu’il y ait une théorie comme quoi
-l’homme est devenu sédentaire quand il a découvert que les fruits fermentés c’était vachement
-bien
-: l’alcool).
-L’EAU : 
-Bon pour l’eau, il n’y a pas 36 façons d’en avoir. Sois vous avez un puits ou une rivière, sois vous
-êtes raccordé, sois vous récupérez la pluie. Il faut savoir que, comme pour la terre, on pense qu’il
-nous en faut énormément alors que c’est faux. Là il va falloir faire quelques calculs. (Au fait, l’eau
-de pluie est potable si elle est bien conservée, même si elle n’est pas minérale du tout. Les minéraux
-vous les trouverez dans vos légumes de potager, qui eux en sont pleins)
-Pour une personne
-en litres et par jour : (voyons très large)
- -La boisson 3 litres
- -Se laver 50 litres 
- -le ménage 10 litres
-On obtient 63 litres. Ce qui fait en mètre cubes
-: 0,063m
-3 
-pour la journée
-On rajoute 100 litres pour le potager, en voyant large
-: 0,163m
-3
-Multiplié par 365 jours
-: 60m
-3
- Pour l’année.
-Disons que vous stockez pour deux semaines, vous devez donc pouvoir stocker 1582 litres. 1,582m
-3
-En prévoyant les saisons ou les pluies sont plus faibles, 2000 litres, donc 2m
-3
-http://www.recuperateurdepluie.fr/ressources/calculer-la-contenance-de-votre-recuperateur
-La cuve
-: Le meilleur matériau de stockage de l’eau est la pierre calcaire ou le béton. Le béton
-(basique) permet de neutraliser l’acidité de l’eau de pluie et donc de la rendre potable. Si vous avez
-une cuve en acier ou en plastique (beurk) placez à l’intérieur un parpaing, ça fera le même office...
-C’est mieux d’enterrer la cuve pour certaines raisons que j’ai oublié.
-Phyto-épuration
-: L’eau est une chose précieuse quand on ne la trouve pas au robinet. (Si vous
-avez déjà du vous trimballer des sceaux sur des centaines de mètres tout les jours, vous savez de
-quoi je parle.) C’est pourquoi, même quand elle à été utilisée pour la vaisselle et le lavage, il ne faut
-pas la jeter bêtement par les fenêtres. Pour pouvoir retraiter l’eau de vaisselle ou de la douche(les
-eaux grises) en eau pour le potager, il existe une technique
-: La phyto-épuration, dont je mets une
-explication juste ici
-:
+petit verre
+
+Il faut savoir que, comme pour la terre, on pense souvent qu’il nous en faut énormément alors que c’est faux. Il est intéressant de faire quelques calculs.
+
+### Consommation d'une personne
+
+Voyons très large.
+
+#### Par jour
+ - Boisson 3 litres
+ - Se laver 50 litres 
+ - Ménage 10 litres
+ - Potager 100 litres 
+On obtient 163 litres. Ce qui fait 0,163m3
+
+#### Par an
+0,163m3 multiplié par 365 jours :
+0,163\*365 = 60m3 = 60 000L
+
+Si vous voulez stockez pour deux semaines, vous devez donc pouvoir stocker 1582 litres, 1,582m3, arrondissons à 2000 litres, soit 2m3.
+
+### La stocker
+
+Le meilleur matériau de stockage de l’eau est la pierre calcaire ou le béton. Le béton (basique) permet de neutraliser l’acidité de l’eau de pluie et donc de la rendre potable. Si vous avez une cuve en acier ou en plastique (beurk) placez à l’intérieur un parpaing, ça fera le même office...
+
+C’est mieux d’enterrer la cuve pour plusieurs raisons notamment la protection des UV du soleils.
+
+### Production
+
+#### Puit
+
+#### Rivière
+
+#### Pluie
+
+L’eau de pluie est potable si elle est bien conservée, même si elle n’est pas minérale du tout. Vous trouverez les minéraux dans vos légumes de potager, qui eux en sont pleins.
+
+### Recycler l'eau usagée
+
+L’eau est une chose précieuse quand on ne la trouve pas au robinet. C’est pourquoi, même quand elle à été utilisée pour la vaisselle et le lavage, il ne faut pas la jeter bêtement par les fenêtres. Il est possible de retraiter l’eau de vaisselle ou de la douche (les eaux grises) en eau pour le potager.
+
+#### Phyto-épuration
+
 http://www.passerelleco.info/rubrique.php?id_rubrique=4
 http://www.terrevivante.org/497-une-solution-alternative-la-phytoepuration.htm
-LA SALLE DE BAIN
-: 
-Une salle de bain, c’est déjà
- de l’eau chaude! Comment chauffer l’eau
-si on n’a ni électricité, ni
-gaz de ville? Il y a deux techniques assez faciles
-à mettre en place : 
-Le 
-Chauffe eau solaire
-: (version
- luxe) Pour construire un chauffe eau solaire, il vous faut un peu
-de matériel. Une caisse en bois ou en métal assez plate que vous isolerez sur le fond et les bords,
-une vitre ou un plexiglas, Des tuyaux, en cuivre de préférence, de la peinture noire mat et un ballon
-bien isolé pour stocker l’eau chauffée.
-La boite en bois isolée est peinte en noir à l’intérieur, la vitre est posée sur le dessus et les tuyaux,
-peints en noir aussi, serpentent dedans. L’eau à l’intérieur des tuyaux est en circuit fermé, et
-serpente aussi dans la cuve, ce qui réchauffe l’eau. Au lieu de l’eau dans les tuyaux vous pouvez
-mettre du glycol, (liquide de refroidissement de voiture, qu’on retrouve aussi dans les mousses à
-raser et les chewing-gums
- «
-goût frais
-») ça chauffe plus vite que l’eau, ça ne boue pas et ça vous
-évitera de devoir faire la vidange en hiver puisque ça ne gèle pas non plus. Un dessin vaut milles
-mots
-:
+
+
+
+
+
+
+## La salle de bain
+
+### Chauffer l'eau
+
+Une salle de bain, c’est déjà de l’eau chaude. Comment chauffer l’eau si on n’a ni électricité, ni gaz de ville ?
+
+#### Le Chauffe eau solaire
+##### De luxe
+Pour construire un chauffe eau solaire, il vous faut un peu de matériel. Une caisse en bois ou en métal assez plate que vous isolerez sur le fond et les bords, une vitre ou un plexiglas, Des tuyaux, en cuivre de préférence, de la peinture noire mat et un ballon bien isolé pour stocker l’eau chauffée. La boite en bois isolée est peinte en noir à l’intérieur, la vitre est posée sur le dessus et les tuyaux, peints en noir aussi, serpentent dedans. L’eau à l’intérieur des tuyaux est en circuit fermé, et
+serpente aussi dans la cuve, ce qui réchauffe l’eau. Au lieu de l’eau dans les tuyaux vous pouvez mettre du glycol, (liquide de refroidissement de voiture, qu’on retrouve aussi dans les mousses à raser et les chewing-gums « goût frais ») ça chauffe plus vite que l’eau, ça ne boue pas et ça vous évitera de devoir faire la vidange en hiver puisque ça ne gèle pas non plus. Un dessin vaut milles mots :
 http://www.mon-chauffe-eau-solaire.com/
 http://zouaoui.club-sciences.over-blog.com/article-systeme-solaire-thermique-66649105.html
 http://www.solaire-chauffe-eau.info/panneau-solaire-thermique.html#introduction
+
 Sur ces sites ça parait très compliqué, mais en fait c’est très simple et vous n’êtes pas obligé te tout
-faire. Attention en été la température de l’eau du ballon peut monter jusqu’à l’ébullition. Si vous
-avez un ballon électrique, il y a dessus une soupape de sécurité que vous pouvez utiliser et qui
-vidange le ballon si l’eau y est trop chaude.
-Chauffe eau solaire, version récup
-: Plein de bouteilles en plastique, pleins de cannettes en métal
-(bière par exemple ^^)
- n’importe quel tuyau, et une bassine
-: 
-http://blog.ecoexperimentos.com.ar/2012/01/calentador-solar-gratis-con-botellas.html#comment-
-form
- (C’est en espagnol, mais il y a tout les dessins qu’il vous faut pour comprendre comment ça
+faire.
+
+**Attention en été la température de l’eau du ballon peut monter jusqu’à l’ébullition.** Si vous avez un ballon électrique, il y a dessus une soupape de sécurité que vous pouvez utiliser et qui vidange le ballon si l’eau y est trop chaude.
+
+##### De récupération
+Plein de bouteilles en plastique, pleins de cannettes en métal, n’importe quel tuyau, et une bassine 
+http://blog.ecoexperimentos.com.ar/2012/01/calentador-solar-gratis-con-botellas.html
+
+(C’est en espagnol, mais il y a tout les dessins qu’il vous faut pour comprendre comment ça
 marche.)
-La méthanisation
-: 
-Méthode «
-Jean Pain
-»
- si vous ne connaissez pas, je vous conseille de
-télécharger ou d’acheter son bouquin. 
-http://www.ebooks.telechargementgratuits.com/telecharger-
-LES_METHODES_JEAN_PAIN--76363.html
- Un vrais génie ce gars là.
-La méthanisation
-, c’est de faire fermenter dans l’eau et dans une cuve étanche des matières
-organiques. La fermentation produit un gaz, le méthane. C’est un gaz très inflammable et inodore,
-donc parfait pour la cuisine ou le chauffage. La cuve est raccordée par un tuyau à un ballon (des
-chambres de camion ou de tracteur, c’est parfait) et une fois que le ballon est plein, vous n’avez
-plus qu’à l’utiliser. Apparemment ça produit beaucoup de gaz pour pas beaucoup de travail. (Mais
-je n’ai pas encore essayé, ça ne saurait tarder.) La matière organique fermentée peut être utilisée
-ensuite pour faire du compost. Rien ne se perd. (À voir dans la méthode Jean Pain une technique
-pour chauffer la maison grâce au compost)
-Pour fabriquer sois même son évier, bac de douche, baignoire, carrelage enduit de salle de bain ou
-de cuisine : le 
-tadelakt
-. Juste de la chaux et du savon, et une petite technique Marocaine. Y’a pleins
-de vidéo et de bouquins si ça vous intéresse. 
+
+#### La méthanisation
+
+
+Je vous conseille de télécharger ou d’acheter [le bouquin](http://www.ebooks.telechargementgratuits.com/telecharger-LES_METHODES_JEAN_PAIN--76363.html) de la méthode Jean Pain, un vrais génie ce gars là.
+
+C'est faire fermenter dans l’eau et dans une cuve étanche des matières organiques. La fermentation produit un gaz, le méthane. C’est un gaz très inflammable et inodore, donc parfait pour la cuisine ou le chauffage. La cuve est raccordée par un tuyau à un ballon (des chambres de camion ou de tracteur, c’est parfait) et une fois que le ballon est plein, vous n’avez plus qu’à l’utiliser. Apparemment ça produit beaucoup de gaz pour pas beaucoup de travail. (Mais je n’ai pas encore essayé, ça ne saurait tarder.) La matière organique fermentée peut être utilisée ensuite pour faire du compost. Rien ne se perd.
+
+Il est possible d'utiliser cette méthode pour chauffer la maison grâce au compost.
+
+### Lavabo, évier, bac de douche, carrelage, ...
+
+Pour fabriquer sois même son évier, bac de douche, baignoire, carrelage enduit de salle de bain ou de cuisine
+
+#### Le tadelakt
+
+C'est juste de la chaux et du savon et une petite technique Marocaine. Y’a pleins de vidéo et de bouquins si ça vous intéresse. 
 http://fr.wikipedia.org/wiki/Tadelakt
-LES TOILETTES
-:
-A ça, on ne peut pas y couper. Mais il faut quand même y penser, et il y a plus utile que de faire un
-trou au fond du jardin. (Mais c’est aussi une solution)
-Les toilettes sèches
-, Un bac, de la sciure. C’est tout bête et ça ne sent rien. N’utilisez pas de papier
-blanchit ou teint si vous voulez le jeter dedans aussi.) Là-dessus il y a de bons livres (celui de
-Patrick baronnet par exemple) pour comprendre pourquoi c’est si important, peut être l’une des
+
+
+
+## Les toilettes
+
+### Le trou au fond du jardin
+
+### Les toilettes sèches
+
+Cela ne néccéssite qu'un bac et de la sciure. C’est tout bête et ça ne sent rien. **N’utilisez pas de papier
+blanchit ou teint si vous voulez le jeter dedans aussi.**
+
+Là-dessus il y a de bons livres (celui de Patrick baronnet par exemple) pour comprendre pourquoi c’est si important, peut être l’une des choses les plus importantes de notre époque.
+Bon, puisque c’est des matières organiques, et si ça ne vous dégoûte pas trop, on peut aussi faire du méthane avec la méthode Jean Pain.
+Puis on peut le composter et le renvoyer dans le potager, mais attention, il doit composter un an avant de pouvoir l’utiliser pour être sur qu’il n’y ait plus aucunes bactéries pathogène. Je vous conseille le compostage en tas allongé, mélangé à de la paille plutôt que dans un bac. C’est juste beaucoup plus pratique pour le retourner tout les six mois. Pas d’inquiétude, si votre compost est bien fait il ne sent pas mauvais.
+http://www.terre-humanisme.org/IMG/pdf/FP_19.pdf
+à connaitre aussi, la paille activée : On fait un tas de paille, on la mouille avec de l’eau et on danse dessus pendant dix minutes à plusieurs en chantant des chansons. (Les chansons ne sont pas obligatoires mais recommandées ^^) pour séparer les fibres et les imprégner d’eau. La paille composte deux fois plus vite.
+
+NOURRITURE :
+Pour le potager, le sujet est vraiment trop vaste et il aurait besoin d’un article complet. Je ne peux que vous encourager à lire « la révolution d’un seul brin de paille » de Masanobu Fukuoka.
+Voilà pour les fainéants :
+http://jardinons.wordpress.com/2008/05/07/la-revolution-du-brin-de-paille/
+http://fr.wikipedia.org/wiki/Masanobu_Fukuoka
+http://www.soltner.fr/pdf/prospectus-gudejardin09.pdf
+Pour une cuisson sans bois, ni gaz ni électricité : les fours solaires. La parabole ou la boite. Ça marche vraiment super bien, ça m’a impressionné, et ça vous évitera la corvée de bois.
+Sur ce site, 21 prototypes.
+http://solarcooking.org/francais/plans.htm
+ENERGIE :
+On peut utiliser le méthane créé pour faire tourner un groupe électrogène, lire la méthode Jean Pain, qui est vraiment un génie. http://www.ebooks.telechargementgratuits.com/telecharger-LES_METHODES_JEAN_PAIN–76363.html
+Pour compléter un peu, voila un lien donné par le mouton Badboy pour une 50aines de machines à construire soi-même, dont plusieurs machines pour l’énergie : http://chroniquedelinfo.wordpress.com/2012/11/13/open-source-ecology/
+SITES DE DONS : Si il vous manque des matériaux, vous pourrez peut être les trouver sur les sites de dons comme Freecycle ou Donnons.org (Il y en a d’autres encore) Il faut juste s’inscrire.
+http://donnons.org/
+http://fr.freecycle.org/accueil/
+PLUS D’INFOS ?
+Ce site là, donné par domi26 est une mine d’or ! Il y a TOUT ou presque!
+http://www.habiter-autrement.org/index.htm
+Allez donc faire le tour des sites et des forums survivaliste. Ils sont peut être un peu près de leur flingue mais ils ont de bonnes idées.
+La carte de leur réseau, fournie par Ikyro :
+https://maps.google.fr/maps/ms?msid=201343372535628073587.0004c5c0e9afeea857c66&msa=0&ll=48.709088%2C2.246704&spn=3.157243%2C8.453979
+Et quelques sites :
+http://fr-fr.facebook.com/pages/RSF-MERE/395455927137280
+http://www.survivalisme-attitude.com/
+http://lesurvivaliste.blogspot.fr/2012/09/reseau-survivaliste-francophone-forum.html
+Et d’autres comme celui là :
+http://www.onpeutlefaire.com/forum/
+Et pour terminer, et surtout pour vous donner envie de vous lancer le plus vite possible : http://www.youtube.com/watch?v=SpDAoOUkfo8
+Une conférence Inculture sur la fin du pétrole, ça devrait passer à la télé, si seulement la télé voulait bien faire son travail!
+Voilà, il y a pleins de truc que j’ai oublié sans doute, mais il y à là l’essentiel. Ça m’a fait réviser et j’espère que ça sera utile à quelqu’un. L’autonomie est possible ! C’est pas la vie de château, mais mieux, et pour tout le monde. Du fauché intégral à celui qui a des économies. On n’est pas obligé d’être riche pour se lancer, ni d’être un bon bricoleur, il suffit d’en avoir envie et d’y aller. Le premier pas est le seul qui soit difficile. C’est ça que je voulais montrer.
