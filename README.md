@@ -421,12 +421,6 @@ marche.)
 #### La méthanisation
 
 
-Je vous conseille de télécharger ou d’acheter [le bouquin](http://www.ebooks.telechargementgratuits.com/telecharger-LES_METHODES_JEAN_PAIN--76363.html) de la méthode Jean Pain, un vrais génie ce gars là.
-
-C'est faire fermenter dans l’eau et dans une cuve étanche des matières organiques. La fermentation produit un gaz, le méthane. C’est un gaz très inflammable et inodore, donc parfait pour la cuisine ou le chauffage. La cuve est raccordée par un tuyau à un ballon (des chambres de camion ou de tracteur, c’est parfait) et une fois que le ballon est plein, vous n’avez plus qu’à l’utiliser. Apparemment ça produit beaucoup de gaz pour pas beaucoup de travail. (Mais je n’ai pas encore essayé, ça ne saurait tarder.) La matière organique fermentée peut être utilisée ensuite pour faire du compost. Rien ne se perd.
-
-Il est possible d'utiliser cette méthode pour chauffer la maison grâce au compost.
-
 ### Lavabo, évier, bac de douche, carrelage, ...
 
 Pour fabriquer sois même son évier, bac de douche, baignoire, carrelage enduit de salle de bain ou de cuisine
@@ -440,35 +434,76 @@ http://fr.wikipedia.org/wiki/Tadelakt
 
 ## Les toilettes
 
+Au lieu de gaspiller 9L d'eau par tirage de la chasse...
+
 ### Le trou au fond du jardin
 
-### Les toilettes sèches
+#### Les toilettes sèches
 
 Cela ne néccéssite qu'un bac et de la sciure. C’est tout bête et ça ne sent rien. **N’utilisez pas de papier
 blanchit ou teint si vous voulez le jeter dedans aussi.**
 
-Là-dessus il y a de bons livres (celui de Patrick baronnet par exemple) pour comprendre pourquoi c’est si important, peut être l’une des choses les plus importantes de notre époque.
-Bon, puisque c’est des matières organiques, et si ça ne vous dégoûte pas trop, on peut aussi faire du méthane avec la méthode Jean Pain.
-Puis on peut le composter et le renvoyer dans le potager, mais attention, il doit composter un an avant de pouvoir l’utiliser pour être sur qu’il n’y ait plus aucunes bactéries pathogène. Je vous conseille le compostage en tas allongé, mélangé à de la paille plutôt que dans un bac. C’est juste beaucoup plus pratique pour le retourner tout les six mois. Pas d’inquiétude, si votre compost est bien fait il ne sent pas mauvais.
-http://www.terre-humanisme.org/IMG/pdf/FP_19.pdf
-à connaitre aussi, la paille activée : On fait un tas de paille, on la mouille avec de l’eau et on danse dessus pendant dix minutes à plusieurs en chantant des chansons. (Les chansons ne sont pas obligatoires mais recommandées ^^) pour séparer les fibres et les imprégner d’eau. La paille composte deux fois plus vite.
+Puisque c’est des matières organiques, si ça ne vous dégoûte pas trop, on peut en faire du méthane avec la méthode Jean Pain.
 
-NOURRITURE :
-Pour le potager, le sujet est vraiment trop vaste et il aurait besoin d’un article complet. Je ne peux que vous encourager à lire « la révolution d’un seul brin de paille » de Masanobu Fukuoka.
+On peut le composter et le renvoyer dans le potager, mais attention, il doit composter un an avant de pouvoir l’utiliser pour être sur qu’il n’y ait plus aucunes bactéries pathogène. Je vous conseille le compostage en tas allongé, mélangé à de la paille plutôt que dans un bac. C’est juste beaucoup plus pratique pour le retourner tout les six mois. Pas d’inquiétude, si votre compost est bien fait il ne sent pas mauvais.
+
+## Nourriture
+
+### Permaculture
+
+#### Compostage
+
+##### La méthanisation
+
+Je vous conseille de télécharger ou d’acheter [le bouquin](http://www.ebooks.telechargementgratuits.com/telecharger-LES_METHODES_JEAN_PAIN--76363.html) de la méthode Jean Pain, un vrais génie ce gars là.
+
+C'est faire fermenter dans l’eau et dans une cuve étanche des matières organiques. La fermentation produit un gaz, le méthane. C’est un gaz très inflammable et inodore, donc parfait pour la cuisine ou le chauffage. La cuve est raccordée par un tuyau à un ballon (des chambres de camion ou de tracteur, c’est parfait) et une fois que le ballon est plein, vous n’avez plus qu’à l’utiliser. Apparemment ça produit beaucoup de gaz pour pas beaucoup de travail. (Mais je n’ai pas encore essayé, ça ne saurait tarder.) La matière organique fermentée peut être utilisée ensuite pour faire du compost. Rien ne se perd.
+
+Il est possible d'utiliser cette méthode pour chauffer la maison grâce au compost.
+
+##### La paille activée
+On fait un tas de paille, on la mouille avec de l’eau et on danse dessus pendant dix minutes à plusieurs en chantant des chansons. (Les chansons ne sont pas obligatoires mais recommandées ^^) pour séparer les fibres et les imprégner d’eau. La paille composte ainsi deux fois plus vite.
+
+#### Zonage
+
+### Potager
+Je ne peux que vous encourager à lire « la révolution d’un seul brin de paille » de Masanobu Fukuoka.
 Voilà pour les fainéants :
-http://jardinons.wordpress.com/2008/05/07/la-revolution-du-brin-de-paille/
-http://fr.wikipedia.org/wiki/Masanobu_Fukuoka
-http://www.soltner.fr/pdf/prospectus-gudejardin09.pdf
-Pour une cuisson sans bois, ni gaz ni électricité : les fours solaires. La parabole ou la boite. Ça marche vraiment super bien, ça m’a impressionné, et ça vous évitera la corvée de bois.
+[](http://jardinons.wordpress.com/2008/05/07/la-revolution-du-brin-de-paille/)
+[](http://fr.wikipedia.org/wiki/Masanobu_Fukuoka)
+[](http://www.soltner.fr/pdf/prospectus-gudejardin09.pdf)
+
+### Cuisson
+
+#### le feu
+
+Néccéssite du combustible
+
+#### Solaire
+
+Ça marche vraiment super bien et ça évite la corvée de bois.
+
 Sur ce site, 21 prototypes.
 http://solarcooking.org/francais/plans.htm
-ENERGIE :
-On peut utiliser le méthane créé pour faire tourner un groupe électrogène, lire la méthode Jean Pain, qui est vraiment un génie. http://www.ebooks.telechargementgratuits.com/telecharger-LES_METHODES_JEAN_PAIN–76363.html
+
+##### les fours
+
+##### les paraboles
+
+## Énergie
+
+On peut utiliser le méthane créé à l'aide de la méthode Jean Pain pour faire tourner un groupe électrogène
+
 Pour compléter un peu, voila un lien donné par le mouton Badboy pour une 50aines de machines à construire soi-même, dont plusieurs machines pour l’énergie : http://chroniquedelinfo.wordpress.com/2012/11/13/open-source-ecology/
-SITES DE DONS : Si il vous manque des matériaux, vous pourrez peut être les trouver sur les sites de dons comme Freecycle ou Donnons.org (Il y en a d’autres encore) Il faut juste s’inscrire.
-http://donnons.org/
-http://fr.freecycle.org/accueil/
-PLUS D’INFOS ?
+
+## Dons
+
+Si il vous manque des matériaux, vous pourrez peut être les trouver sur les sites de dons. Il suffit de s’inscrire.
+- http://donnons.org/
+- http://fr.freecycle.org/accueil/
+
+## D'autres liens à explorer pour enrichir ce guide
+
 Ce site là, donné par domi26 est une mine d’or ! Il y a TOUT ou presque!
 http://www.habiter-autrement.org/index.htm
 Allez donc faire le tour des sites et des forums survivaliste. Ils sont peut être un peu près de leur flingue mais ils ont de bonnes idées.
@@ -481,5 +516,6 @@ http://lesurvivaliste.blogspot.fr/2012/09/reseau-survivaliste-francophone-forum.
 Et d’autres comme celui là :
 http://www.onpeutlefaire.com/forum/
 Et pour terminer, et surtout pour vous donner envie de vous lancer le plus vite possible : http://www.youtube.com/watch?v=SpDAoOUkfo8
-Une conférence Inculture sur la fin du pétrole, ça devrait passer à la télé, si seulement la télé voulait bien faire son travail!
-Voilà, il y a pleins de truc que j’ai oublié sans doute, mais il y à là l’essentiel. Ça m’a fait réviser et j’espère que ça sera utile à quelqu’un. L’autonomie est possible ! C’est pas la vie de château, mais mieux, et pour tout le monde. Du fauché intégral à celui qui a des économies. On n’est pas obligé d’être riche pour se lancer, ni d’être un bon bricoleur, il suffit d’en avoir envie et d’y aller. Le premier pas est le seul qui soit difficile. C’est ça que je voulais montrer.
+Une conférence Inculture sur la fin du pétrole.
+
+Il y a pleins de truc que j’ai oublié sans doute, mais il y à là l’essentiel. Ça m’a fait réviser et j’espère que ça sera utile à quelqu’un. L’autonomie est possible ! C’est pas la vie de château, mais mieux, et pour tout le monde. Du fauché intégral à celui qui a des économies. On n’a pas besoin d’être riche pour se lancer, ni d’être un bon bricoleur, il suffit d’en avoir envie et d’y aller. Le premier pas est le seul qui soit difficile. C’est ça que je voulais montrer.
