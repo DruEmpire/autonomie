@@ -57,10 +57,17 @@ Il y reste des maisons encore debout, ou a minima les matériaux de construction
 
 Une règle toute bête pour construire pas cher, c’est de faire sois même. La deuxième règle c’est de se servir des matériaux disponibles à portée de main ou de récup.
 
+On ne peut pas apprendre à faire une maison en un article, mais ce n’est quand même pas très compliqué, un peu de logique seulement. On peut aussi se faire aider par des gens qui s’y connaissent un peu plus en postant une annonce sur les sites de chantiers participatifs.
+
 ### En terre
 
-Maintenant qu’on a une terre, ce qu’on peut trouver vraiment tout près, c’est la terre elle-même.
-On ne peut pas apprendre à faire une maison en un article, mais ce n’est quand même pas très compliqué, un peu de logique seulement. On peut aussi se faire aider par des gens qui s’y connaissent un peu plus en postant une annonce sur les sites de chantiers participatifs.
+Maintenant qu’on a une terre, ce qu’on peut trouver vraiment tout près, c’est la terre elle-même. 
+
+La terre apporte une bonne inertie thermique (capacité à accumuler de la chaleur puis la restituer avec un décalage).
+
+- 40% de l'humanité habite des constructions en terre crue (source UNCHS). 
+- 17% des monuments inscrits au patrimoine mondial de l'humanité sont en terre crue : forteresses marocaines, pyramides d'Egyptes...
+- On trouve dans nos régions : le pisé en Isère, l'adobe dans la région de Toulouse, le torchis dans les Landes, la bauge en Vendée..
 
 Pour chacune des techniques dont je vais parler il existe aussi des tas de livres et de vidéos très bien faites destinées aux auto-constructeurs, et des forums comme ceux-là par exemple : 
 - [Vivre la nature](http://vivrelanature.teamgoo.net/f17-fabriquer-un-abri)
@@ -226,56 +233,55 @@ Afin d'éviter les fissurations dues au retrait ou l'effritement dans un enduit 
 
 #### En fonctions des résultats de votre terre
 
-Si vous avez plus de 40 ou 50% d’argile, alors vous pouvez monter directement des murs avec ça, ils tiendront des siècles, comme ces vieilles maisons du moyen-âge encore debout aujourd’hui. [(Au Yémen ils font des tours jusqu’à 60m de haut avec cette
-technique. Pour dire que ça tient, et en plus c’est très joli)](http://www.linternaute.com/voyage/magazine/photo/yemen-la-beaute-farouche/hadramaout-couleur-terre.shtml)
+##### Beaucoup d'argile
 
-L’essentiel étant que l’eau de pluie ne ruisselle pas dessus, donc un toit qui déborde bien et un bon
-drainage autour de la maison.
+Si vous avez plus de 40 ou 50% d’argile, alors vous pouvez monter directement des murs avec ça, ils tiendront des siècles comme ces vieilles maisons du moyen-âge encore debout aujourd’hui.
+
+[(Au Yémen ils font des tours jusqu’à 60m de haut avec cette
+technique. Pour dire que ça tient, et en plus c’est très joli)](http://www.linternaute.com/voyage/magazine/photo/yemen-la-beaute-farouche/hadramaout-couleur-terre.shtml). 
+
+L’essentiel étant que l’eau de pluie ne ruisselle pas dessus, donc un toit qui déborde bien et un bon drainage autour de la maison.
+
+##### Beaucoup de sable
+
+Si vous avez beaucoup de sable il vous reste le super-adobe ou éco-dôme.
+
+C’est comme les murs en sac de sable de l’armée (sacs en toile de jute ou en polypropylène tissé du genre sac à gravats), mais pour faire une maison. Ils sont maintenus solidaires entre eux par des barbelés, puis le tout est recouvert d’enduit. On trouve quelques info sur cette technique, mais pas assez. Si ça vous intéresse, le plus simple est d’acheter le livre de Nhader Kahlili, l’architecte qui a inventé ça. (la plupart des sites et des livres sont en anglais).
+
+Les formes arrondies sont les plus pratiques, mais si vous préférez vous pouvez faire des carrés. L’intérêt du dôme est qu’il n’y a pas de structure en bois et que le toit est déjà fait.
+
+Le rouleau de 500m de sac coûte de 500€ à 1000€, et avec ça on fait bien 50m2 (ça n’était tellement pas cher et tellement solide que l’ONU a refusé de l’utiliser pour les camps de refugiés de peur qu’ils ne s’installent définitivement) Attention il faut prendre des sacs solides.
+- http://www.oxygenes.com/rouleau-sacs-polypro-2.php
+- http://eco-dome.designblog.fr/
+- ...
+
+###### Le super Adobe
+
+- Niveler le terrain afin qu´il soit complètement plat
+- Tracer un cercle au sol par l´intermédiaire d´un pic placé au centre relié à un fil qui en tournant tracera la circonférence du cercle. Les formes ciculaires conviennent mieux à la technique du superadobe pour des raisons de stabilité.
+![tracer le cercle](pictures/trace cercle.jpg)
+- Mettre en place les fondations en remplissant des sacs en nylon ou en toile (usuels pour stocker l´alimentation) avec un mélange de 1/3 de ciment et de 2/3 de sable.
+- Bien tasser
+- Arroser la première couche constituée par le premier sac de la fondation avec de l´eau de façon à ce que le ciment prenne
+- Mettre un barbelé au-dessus du sac pour éviter les mouvements latéraux du prochain sac, superposé à ce premier
+- Remplir des sacs en nylon avec de la terre
+- Compacter
+- Mettre un barbelé au-dessus du sac
+- Répéter jusqu´au haut du mur
+
+Si le mur est incurvé selon un arc, la toiture sera faite de sac de terre et le procédé constructif pour obtenir l´inclination sera le suivant:
+
+On pourra faire un arc de cercle ou un cadre en bois par exemple qui viendra soutenir les arcs.
+
+Pour renforcer la terre et la rendre aussi résistante que le béton, il est possible de faire un grand feu à l´intérieur du dôme une fois la construction finie pour obtenir des murs en terre cuite.
+
+Recouvrir  le tout d´une bâche imperméabilisante pour éviter que l´eau ne s´infiltre dans les fondations au cours du temps.
+
+Les murs peuvent également s´édifier sur des fondations en pierres.
 
 
 
 
-
-
-
-
-
- 
-
-
-Voilà un site qui explique en long et en large comment faire une maison en terre, et en BTC (brique
-de terre crue, qu’on fabrique grâce à une presse à main.)
-http://www.lamaisondurable.com/terre-crue.html
-Il y a aussi le 
-bois cordé
-, si vous n’êtes pas loin d’une forêt ça peut être vraiment pas cher et rapide
-à monter. Il y aura juste besoin d’acheter quelques sacs de chaux pour mélanger à l’argile. Bonne
-isolation (c’est une technique qui nous vient de Scandinavie ou du canada), et joli aspect : 
-http://fr.ekopedia.org/Bois_cord%C3%A9
-Si le test du bocal révèle que vous avez beaucoup de sable il vous reste le 
-super-adobe
- ou éco-
-dôme
-: 
-Le principe très simple. C’est comme les murs en sac de sable de l’armée, (sacs en toile de jute ou
-en polypropylène tissé du genre sac à gravats) mais pour faire une maison. Ils sont maintenus
-solidaires entre eux par des barbelés, puis le tout est recouvert d’enduit. On trouve quelques info sur
-cette technique, mais pas assez. Si ça vous intéresse, le plus simple est d’acheter le livre de 
-Nhader
-Kahlili, 
-l’architecte qui a inventé ça. (Malheureusement la plupart des sites et des livres sont en
-anglais seulement) Les formes arrondies sont les plus pratiques, mais si vous préférez vous pouvez
-faire des carrés ^^ l’intérêt du dôme est qu’il n’y a pas de structure en bois et que le toit est déjà fait.
-Le rouleau de 500m de sac coûte de 500€ à 1000€, et avec ça on fait bien 50m
-2
- (ça n’était tellement
-pas cher et tellement solide que l’ONU a refusé de l’utiliser pour les camps de refugiés de peur
-qu’ils ne s’installent définitivement) Attention il faut prendre des sacs solides.
-http://www.oxygenes.com/rouleau-sacs-polypro-2.php
-http://www.dzogchen.fr/index.php/mes-articles/4-mes-articles-/8-les-superadobes-ecodomes.html
-http://detoientoit.wordpress.com/2008/10/15/le-superadobe-une-technique-constructive-peut-etre-
-bientot-realisee-sur-la-lune/
-http://eco-dome.designblog.fr/
 Un peu plus cher, mais mieux isolé, (bien mieux que n’importe quelle maison conventionnelle) la
 maison en botte de paille. (C’est plus cher à cause de la structure en bois mais si vous avez l’argent
 pour l’acheter ou la possibilité de le trouver gratuitement c’est vraiment parfait, ou alors vous
