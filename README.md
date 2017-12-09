@@ -10,7 +10,7 @@ façon, d’après certains autres, ce système n’en a plus pour longtemps.
 
 J'essaye de rassembler dans un article tout ce qui pourrait aider ceux qui sont prêts à se lancer. Une sorte de petite encyclopédie des autonomistes.
 
-Bien sur, je ne connais pas tout, et si vous avez des infos, envoyez-les. C’est important pour nous de réapprendre les
+Bien sûr, je ne connais pas tout, et si vous avez des infos, envoyez-les. C’est important pour nous de réapprendre les
 anciennes techniques de construction, et pourquoi pas, les mélanger avec des nouvelles tant que c’est encore possible.
 
 
@@ -19,23 +19,23 @@ anciennes techniques de construction, et pourquoi pas, les mélanger avec des no
 
 Ce que tout aspirant autonomiste va devoir trouver en premier, c’est une terre. Et bien il y a trois solutions, a vous de choisir celle qui vous convient.
 
-### Quelle surface est néccéssaire ? 
+### Quelle surface est nécessaire ? 
 
-Le plus difficile est de trouver un endroit se prêtant bien à la chose. On a besoins de moins que ce que l’on peux penser : un hectare de terre (100mx100m: 10.000m2), en fonction de sa qualité et de la façon dont il est cultivé, peut nourrir entre 5 et 35 personnes, soit quand même 20 personnes en moyenne.
+Le plus difficile est de trouver un endroit se prêtant bien à la chose. On a besoin de moins que ce que l’on peut penser : un hectare de terre (100mx100m: 10.000m2), en fonction de sa qualité et de la façon dont il est cultivé, peut nourrir entre 5 et 35 personnes, soit quand même 20 personnes en moyenne.
 
 Seulement 500 m2 de potager sur une terre moyenne, et vous êtes presque sur de n’avoir jamais faim. C’est déjà un sacré progrès que de ne plus subventionner l’industrie agroalimentaire, les supermarchés et tous les autres intermédiaires, et en plus là, c’est des vraies tomates. 
 
 ### L'acheter
 Si on y réfléchit ça a l’air con, mais c’est comme ça ici depuis un moment, la terre s’achète. Le prix de terre classé `terre cultivable` est en moyenne de 5000€ l’hectare. Le prix varie beaucoup selon les régions.
 
-Dans d’autres pays d’Europe et du monde les prix sont **énormément** plus bas, si l’exil vous botte.
+Dans d’autres pays d’Europe et du monde, les prix sont **énormément** plus bas, si l’exil vous botte.
 
-Selon la loi, ces terres sont `inconstructibles`, mais on à quand même le droit de construire sur chaque parcelle jusqu’à six locaux de 20m2 maximum, sur lesquels on n’aura pas d’impôts. Là-dessus, comme on est un peu des bandits, on peut jouer avec la loi et se faire une maison de six pièces reliées entre elles par des couloirs couverts sans murs. C’est légal, le problème c’est qu’il faudrait faire beaucoup plus de murs et chauffer plusieurs pièces. 
+Selon la loi, ces terres sont `inconstructibles`, mais on a quand même le droit de construire sur chaque parcelle jusqu’à six locaux de 20m2 maximum, sur lesquels on n’aura pas d’impôts. Là-dessus, comme on est un peu des bandits, on peut jouer avec la loi et se faire une maison de six pièces reliées entre elles par des couloirs couverts sans murs. C’est légal, le problème c’est qu’il faudrait faire beaucoup plus de murs et chauffer plusieurs pièces. 
 
-On peut aussi se faire classer comme structure touristique ou camping de moins de six place, quelques formalités en plus, mais là il est tout à fait légal d’installer des `structures démontables` comme les yourtes, caravanes ou bungalow (le terme `démontable` est un peu vague, et là aussi on peut jouer avec) et surtout, il n’y a pas d’impôts.
+On peut aussi se faire classer comme structure touristique ou camping de moins de six places, quelques formalités en plus, mais là il est tout à fait légal d’installer des `structures démontables` comme les yourtes, caravanes ou bungalow (le terme `démontable` est un peu vague, et là aussi on peut jouer avec) et surtout, il n’y a pas d’impôts.
 
 ### Se la faire prêter
-Il existe des associations qui peuvent vous permettre d’accéder à la terre pour vraiment pas cher, ou même gratuitement si vous rêvez de vous reconvertir dans l’agriculture bio (Ou même mieux en permaculture) comme [terre de lien](https://terredeliens.org/spip.php?page=accueil), [passerelle éco](
+Il existe des associations qui peuvent vous permettre d’accéder à la terre pour vraiment pas cher, ou même gratuitement si vous rêvez de vous reconvertir dans l’agriculture bio (ou même mieux en permaculture) comme [terre de lien](https://terredeliens.org/spip.php?page=accueil), [passerelle éco](
 http://www.passerelleco.info/) ou [le
 mouvement colibri](http://www.colibris-lemouvement.org)
 
@@ -45,11 +45,11 @@ Ce sont des exemples, mais il y en a beaucoup d’autres, et si c’est ce que v
 
 ### La squatter
 
-Toutes les solutions présentées précédement sont totalement légales, il en reste pourtant une dernière est illégale mais tolérée. C’est la solution qui est de loin la moins cher, elle est gratuite.
+Toutes les solutions présentées précédemment sont totalement légales, il en reste pourtant une dernière illégale mais tolérée. C’est la solution qui est de loin la moins chère, elle est gratuite.
 
 Le `squat` de villages, abandonnés après l’exode rural. 
 
-Parce qu’ils sont isolés au milieu de la campagne, en général en montagne dans des zones ou le tracteur ne passe pas bien et ou il n’y a pas de grandes étendues plates, personne ne viendra vous déloger tout simplement parce que personne n’a besoin de cette terre.
+Parce qu’ils sont isolés au milieu de la campagne, en général en montagne dans des zones où le tracteur ne passe pas bien et où il n’y a pas de grandes étendues plates, personne ne viendra vous déloger tout simplement parce que personne n’a besoin de cette terre.
 
 Il y reste des maisons encore debout, ou a minima les matériaux de construction qui vous seront utiles (pierres, tuiles, cuves, puits, etc). Autant de choses en moins à trouver, à construire ou à acheter faute de mieux.
 
@@ -62,7 +62,7 @@ Une règle toute bête pour construire pas cher, c’est de faire sois même. La
 Maintenant qu’on a une terre, ce qu’on peut trouver vraiment tout près, c’est la terre elle-même.
 On ne peut pas apprendre à faire une maison en un article, mais ce n’est quand même pas très compliqué, un peu de logique seulement. On peut aussi se faire aider par des gens qui s’y connaissent un peu plus en postant une annonce sur les sites de chantiers participatifs.
 
-Pour chacune des techniques dont je vais parler il existe aussi des tas de livres et de vidéos très bien faites destinées aux auto-constructeurs, et des forums comme ceux là par exemple : 
+Pour chacune des techniques dont je vais parler il existe aussi des tas de livres et de vidéos très bien faites destinées aux auto-constructeurs, et des forums comme ceux-là par exemple : 
 - [Vivre la nature](http://vivrelanature.teamgoo.net/f17-fabriquer-un-abri)
 - [On peut le faire](http://www.onpeutlefaire.com/forum/)
 
@@ -70,23 +70,23 @@ Pour chacune des techniques dont je vais parler il existe aussi des tas de livre
 
 Si on veut construire en terre il va d’abord falloir tester la quantité d’argile que contient le sol.
 
-##### Les différents terres
+##### Les différentes terres
 
-La terre à batir est constituée de grains de différentes tailles (cailloux, graviers, sables, limons, argiles), d'air et d'eau. La terre à cultiver contient en plus de la matière organique (végétaux et animaux).
+La terre à bâtir est constituée de grains de différentes tailles (cailloux, graviers, sables, limons, argiles), d'air et d'eau. La terre à cultiver contient en plus de la matière organique (végétaux et animaux).
 
 Les cailloux, graviers, sables et limons sont des grains plus ou moins arrondis de même nature. Seule leur taille varie et leur donne des noms différents.
 
-Les argiles sont des particules très fines et applaties. Elles réagissent avec l'eau pour coller tous les grains ensemble. Il en existe de plusieurs sortes (des colles très fortes et délicates à employer et des colles moins fortes mais d'usage plus facile).
+Les argiles sont des particules très fines et aplaties. Elles réagissent avec l'eau pour coller tous les grains ensemble. Il en existe de plusieurs sortes (des colles très fortes et délicates à employer et des colles moins fortes, mais d'utilisation plus facile).
 
 Les propriétés d'une terre viennent de la proportion de chacun de ses grains et du type d'argile.
 
 ###### Le gravier, les cailloux
 
-Ils sont facilement reconnaissables par leur diamètre supérieur à 2 mm. Ils limitent les remontées d'eau par capillarité, c'est pourquoi ils sont utilisés dans les hérissons. Ils limitent aussi le retrait des liants qui les entourent, comme par exemple la terre ou le béton.
+Ils sont facilement reconnaissables par leur diamètre supérieur à 2 mm. Ils limitent les remontées d'eau par capillarité, c'est pourquoi ils sont utilisés dans les hérissons. Ils limitent aussi le retrait des liants qui les entourent, comme la terre ou le béton.
 
 ###### La terre sableuse
 
-Une terre sableuse est une terre contenant une grande proportion de sable (particules de diamètre compris entre 0,06mm et 2mm) Le terrain sableux est très perméable. Il laisse donc facilement circuler l'eau sans gonfler et limite fortement les effets du gel. C'est une terre qui se draine automatiquement. L'eau assure la cohésion d'un sol. La terre sableuse manque donc de cohésion et s'effrite. Elle a une bonne capacité portante et est parfaite pour des fondations.
+Une terre sableuse est une terre contenant une grande proportion de sable (particules de diamètre compris entre 0,06mm et 2mm). Le terrain sableux est très perméable. Il laisse donc facilement circuler l'eau sans gonfler et limite fortement les effets du gel. C'est une terre qui se draine automatiquement. L'eau assure la cohésion d'un sol. La terre sableuse manque donc de cohésion et s'effrite. Elle a une bonne capacité portante et est parfaite pour des fondations.
 
 ###### La terre limoneuse (grande proportion de silt)
 
@@ -98,7 +98,7 @@ La terre argileuse est souvent lourde car gonflée d'eau et a donc une grande in
 
 ###### La terre organique
 
-On la trouve généralement dans les 35 premiers centimètres du sol. Parfois de couleur sombre : l'humus qui indique une décomposition avancée (appelée terre humifère), ou de couleur plus claire avec des parties végétales visible. C'est une terre qui change fortement de volume avec l'eau. Elle accepte jusqu'à 5 fois son volume d'eau et perd ainsi toute stabilité mécanique.
+On la trouve généralement dans les 35 premiers centimètres du sol. Parfois de couleur sombre : l'humus qui indique une décomposition avancée (appelée terre humifère), ou de couleur plus claire avec des parties végétales visibles. C'est une terre qui change fortement de volume avec l'eau. Elle accepte jusqu'à 5 fois son volume d'eau et perd ainsi toute stabilité mécanique.
 
 ##### tailles des particules :
 
@@ -120,17 +120,17 @@ C'est un test d'identification de consistance de la terre (grenu, fin).
 
 Séparer manuellement les gros cailloux et les graviers (supérieur à 2mm), si on a le courage les gros sables (supérieur à 1mm). On peut alors apprécier à l'oeil le pourcentage de chacune des familles et en déduire si le sol est grenu.
 
-Avec cet méthode, on repère aussi assez facilement un sol organique. Elle donne une première impression : terre fine, lisse ou au contraire très rugueuse.
+Avec cette méthode, on repère aussi assez facilement un sol organique. Elle donne une première impression : terre fine, lisse ou au contraire très rugueuse.
 
 ##### Le test du bocal
 
 C'est un test d'identification de composition de la terre (gravier, sable, silt, argile, organique).
 
-Le test du bocal est l'un des plus performant. Il repose sur une technique de sédimentation. Il permet de connaître le pourcentage volumique des cinq principales classes de particules d'une terre.
+Le test du bocal est l'un des plus performants. Il repose sur une technique de sédimentation. Il permet de connaître le pourcentage volumique des cinq principales classes de particules d'une terre.
 
 Le choix d'un bocal svelte est un gain énorme en précision, car le gain en hauteur se traduit par un espacement des couches.
 
-- Remplier un bocal avec un quart de terre et complèter avec de l'eau pure en laissant un petit espace d'air pour agiter plus facilement
+- Remplier un bocal avec un quart de terre et compléter avec de l'eau pure en laissant un petit espace d'air pour agiter plus facilement
 - Refermer et on agiter énergiquement
 - Attendre une heure et agiter de nouveau
 - Les sables se déposent presque immédiatement
@@ -149,17 +149,17 @@ Voici le test des gourmands. On prend un petit peu de terre et on la renifle en 
 
 Attention tout de même aux différentes pollutions.
 
-- Si elle sent le moisi, c'est une terre organique. On peut vérifier nos déduction en humidifiant ou en chauffant la terre.
+- Si elle sent le moisi, c'est une terre organique. On peut vérifier nos déductions en humidifiant ou en chauffant la terre.
 - Si elle laisse une impression pâteuse, colle au palais c'est une terre argileuse.
 - Si elle ne colle pas, c'est une terre limoneuse.
 - Si la terre crisse désagréablement sous les dents, c'est une terre sableuse.
 
 ##### Le test du lavage de main
 
-Très simple. Il suffit juste de sa laver les mains avec la terre.
+Très simple. Il suffit juste de se laver les mains avec la terre.
 
 - Si les mains se rincent facilement, c'est une terre sableuse.
-- Si les mains laisse une impression de savon, difficile à rincer, c'est une terre argileuse.
+- Si les mains laissent une impression de savon, difficile à rincer, c'est une terre argileuse.
 - Entre les deux, c'est une terre limoneuse.
 
  ##### Le test d'adhérence à un couteau
@@ -169,7 +169,7 @@ C'est un test d'identification de consistance de la terre (fortement argileux, f
 On fait une petite boule de terre humide de 3-4 cm de diamètre. On la malaxe jusqu'à ce qu'elle colle plus aux doigts. On enfonce la lame du couteau (comme pour tester si le gâteau est cuit).
 
 - Si le couteau entre et sort facilement de la boule, tout en laissant des traces sur la lame, c'est une terre faiblement argileuse.
-- Si Le couteau s'enfonce difficilement, tout en laissant des traces sur la lame, c'est une terre fortement argileuse.
+- Si le couteau s'enfonce difficilement, tout en laissant des traces sur la lame, c'est une terre fortement argileuse.
 - Si la lame ressort indemne et presque propre, c'est une terre sableuse ou limoneuse. On coupe alors la boule en deux :
 	- Si la lame crisse, la terre est sableuse.
 	- Si l'éclat de la terre est brillant, la terre est limoneuse.
@@ -181,7 +181,7 @@ Il s'agit d'un test de consistance qui mesure essentiellement la proportion d'ar
 - Confectionner à partir de la terre fine une petite boule de 2-3 cm de diamètre humide mais non collante
 - La rouler à la main
 	- Si le cordon casse avant d'atteindre un diamètre de 3mm on rajoute un peu d'eau et on recommence
-	- Si la terre se roule jusqu'au diamètre des trois millimètre sans se casser, on reforme la boule
+	- Si la terre se roule jusqu'au diamètre des trois millimètres sans se casser, on reforme la boule
 		- Écraser la boule
 		- Si la boule s'écrase sans se fissurer : c'est une terre fortement argileuse
 		- Si la boule s'écrase en se fissurant de partout : c'est une terre faiblement argileuse
@@ -193,14 +193,14 @@ Il s'agit d'un test de consistance qui mesure essentiellement la proportion d'ar
 ##### Le test des pastilles
 
 - Préparer différents mélanges de terre (différentes terres, ajouts de paille, ajouts de sable...)
-- Placer les mélange dans des moules
+- Placer les mélanges dans des moules
 - Laisser sécher
 - Lorsque c'est sec, observer comment ils se sont rétractés.
 - Lorsque l'eau s'évapore, les plaquettes d'argiles se rapprochent et avec elles les autres grains : la terre se rétracte.
 
 ##### Le test de plasticité
 
-La plasticité d'une terre est sa capacité à subir des déformation sans casser ou sans même se fissurer. Cette valeur évolue avec la quantité d'eau du matériau. Ce test permet de mettre en évidence l'influence de l'eau dans les mélanges.
+La plasticité d'une terre est sa capacité à subir des déformations sans casser ou sans même se fissurer. Cette valeur évolue avec la quantité d'eau du matériau. Ce test permet de mettre en évidence l'influence de l'eau dans les mélanges.
 
 Les argiles ont des formes de plaquettes et sont comparables à des plaques de verre.
 
@@ -208,7 +208,7 @@ Les argiles ont des formes de plaquettes et sont comparables à des plaques de v
 - Ajouter une quantité d'eau différente pour chaque échantillon
 - Essayer de faire une colonne la plus haute possible à l'aide des mains avec chaque mélange
 
-- Si on met un peu d'eau entre deux plaques, on ne peux pas les décoller mais on peut les faire glisser l'une par rapport à l'autre
+- Si on met un peu d'eau entre deux plaques, on ne peut pas les décoller mais on peut les faire glisser l'une par rapport à l'autre
 - Si il y a un peu d'eau entre toutes les plaquettes d'argile, la terre est plastique
 - S'il n'y a pas assez d'eau, les plaquettes ne sont pas collées les unes avec les autres
 
@@ -216,11 +216,11 @@ Ces deux derniers tests montrent l'influence de l'eau et l'importance des amende
 
 ##### Le test des mélanges pour les enduits:
 
-Afin d'éviter les fissurations dues au retrait ou l'effrittement dans un enduit trop sableux, on amende notre terre avec des fibres (paille par exemple) et du sable.
+Afin d'éviter les fissurations dues au retrait ou l'effritement dans un enduit trop sableux, on amende notre terre avec des fibres (paille par exemple) et du sable.
 
 - Préparer un mélange de terre.
 - Sur un panneau ou pan de mur, réaliser une petite surface d'enduit.
-- Créer une sorte de tableau en réalisant des surfaces d'enduits dans lesquels on ajoute progressivement plus de sable à l'horizontal et plus de fibres à la verticale.
+- Créer une sorte de tableau en réalisant des surfaces d'enduits dans lesquels on ajoute progressivement plus de sable à l'horizontale et plus de fibres à la verticale.
 - Ce qui permet d'observer les réactions en fonction des amendements et de choisir le mélange le plus approprié. 
 
 
@@ -263,7 +263,7 @@ solidaires entre eux par des barbelés, puis le tout est recouvert d’enduit. O
 cette technique, mais pas assez. Si ça vous intéresse, le plus simple est d’acheter le livre de 
 Nhader
 Kahlili, 
-l’architecte qui à inventé ça. (Malheureusement la plupart des sites et des livres sont en
+l’architecte qui a inventé ça. (Malheureusement la plupart des sites et des livres sont en
 anglais seulement) Les formes arrondies sont les plus pratiques, mais si vous préférez vous pouvez
 faire des carrés ^^ l’intérêt du dôme est qu’il n’y a pas de structure en bois et que le toit est déjà fait.
 Le rouleau de 500m de sac coûte de 500€ à 1000€, et avec ça on fait bien 50m
