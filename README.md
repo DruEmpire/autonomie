@@ -420,6 +420,7 @@ marche.)
 
 #### La méthanisation
 
+voir [la méthanisation](#la-méthanisation-1)
 
 ### Lavabo, évier, bac de douche, carrelage, ...
 
