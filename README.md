@@ -19,7 +19,7 @@ anciennes techniques de construction, et pourquoi pas, les mélanger avec des no
 
 Ce que tout aspirant autonomiste va devoir trouver en premier, c’est une terre. Et bien il y a trois solutions, a vous de choisir celle qui vous convient.
 
-### Combien il en faut ? 
+### Quelle surface est néccéssaire ? 
 
 Le plus difficile est de trouver un endroit se prêtant bien à la chose. On a besoins de moins que ce que l’on peux penser : un hectare de terre (100mx100m: 10.000m2), en fonction de sa qualité et de la façon dont il est cultivé, peut nourrir entre 5 et 35 personnes, soit quand même 20 personnes en moyenne.
 
@@ -45,51 +45,220 @@ Ce sont des exemples, mais il y en a beaucoup d’autres, et si c’est ce que v
 
 ### La squatter
 
-Toutes les solutions présentées précédement sont totalement légales, il en reste pourtant une dernière est illégale mais tolérée. C’est la solution qui est nettement la moins cher.
+Toutes les solutions présentées précédement sont totalement légales, il en reste pourtant une dernière est illégale mais tolérée. C’est la solution qui est de loin la moins cher, elle est gratuite.
 
-Le `squat` de villages, abandonnés après l’exode rural. Déjà parce qu’ils sont isolés au milieu de la
-campagne, en général en montagne dans des zones ou le tracteur ne passe pas bien et ou il n’y a pas
-de grandes étendues plates, personne ne viendra vous déloger tout simplement parce que personne
-n’a besoin de cette terre. Puis parce qu’il y reste des maisons encore debout, ou au moins les
-matériaux de construction qui vous seront utiles ensuite (pierres, tuiles, cuves, puits etc.)
- Autant de
-choses en moins à trouver à construire ou à acheter faute de mieux.
-Là un ancien article des moutons parlant de squats de villages dans les montagnes espagnoles.
-http://lesmoutonsenrages.fr/2012/10/30/vivre-sans-argent-a-la-conquete-des-villages-abandonnes/
-Et une carte très détaillée des villages abandonnés en Espagne, (Certains sont déjà habités par des
-communautés autonomes). Pour ceux que la troisième solution intéresse, c’est l’outil indispensable
-pour les trouver. Je cherche encore la même carte des villages abandonnés mais pour la France. Si
-quelqu’un a une piste, je suis preneur.
-http://www.pueblosabandonados.com/mapa
-COMMENT FABRIQUER SA MAISON
-POUR VRAIMENT PAS CHER :
-Une règle toute bête pour construire pas cher, c’est déjà de le faire sois même. Une deuxième règle
-c’est de se servir des matériaux qu’on a à portée de main ou de récup, et maintenant qu’on a une
-terre, quelque chose qu’on peut trouver vraiment tout près, et bien c’est la terre elle-même pardi
-!
-Comme les ancêtres, la maison en terre
-! Pour ça, plusieurs techniques.
-On ne peut pas apprendre à faire une maison en un article, mais ce n’est quand même pas très
-compliqué. Un peu de logique seulement. On peut aussi se faire aider par des gens qui s’y
-connaissent un peu plus en postant une annonce sur les sites de 
-chantiers participatifs
-. Pour
-chacune des techniques dont je vais parler il existe aussi des tas de livres et de vidéos très bien
-faites destinées aux auto-constructeurs, et des forums comme ceux là par exemple
-: 
-http://www.onpeutlefaire.com/forum/
-http://ardheia.free.fr/ardheia/index.php?
-option=com_content&view=article&id=129&Itemid=159&lang=fr
-Bon si on veut construire en terre il va d’abord falloir tester la quantité d’argile que contient le sol.
-Une petite cuisine très simple
-: Vous prenez un bocal en verre assez fin, et vous le remplissez de
-terre au quart. Vous complétez jusqu’en haut avec de l’eau, vous fermez, secouez bien fort, puis
-vous laissez reposer quelques heures. Quand il n’y a plus de terre en suspension dans l’eau, vous
-regardez de près, et vous verrez des phases (couches) de couleur différente.
- La plus basse c’est du
-sable, la deuxième, Le limon (ou silt), et celle du dessus c’est l’argile, celle qui nous intéresse.
-Sur cette page, plusieurs tests de la terre.
-http://3pa.over-blog.org/article-33934047.html
+Le `squat` de villages, abandonnés après l’exode rural. 
+
+Parce qu’ils sont isolés au milieu de la campagne, en général en montagne dans des zones ou le tracteur ne passe pas bien et ou il n’y a pas de grandes étendues plates, personne ne viendra vous déloger tout simplement parce que personne n’a besoin de cette terre.
+
+Il y reste des maisons encore debout, ou a minima les matériaux de construction qui vous seront utiles (pierres, tuiles, cuves, puits, etc). Autant de choses en moins à trouver, à construire ou à acheter faute de mieux.
+
+## Fabriquer sa maison
+
+Une règle toute bête pour construire pas cher, c’est de faire sois même. La deuxième règle c’est de se servir des matériaux disponibles à portée de main ou de récup.
+
+### En terre
+
+Maintenant qu’on a une terre, ce qu’on peut trouver vraiment tout près, c’est la terre elle-même.
+On ne peut pas apprendre à faire une maison en un article, mais ce n’est quand même pas très compliqué, un peu de logique seulement. On peut aussi se faire aider par des gens qui s’y connaissent un peu plus en postant une annonce sur les sites de chantiers participatifs.
+
+Pour chacune des techniques dont je vais parler il existe aussi des tas de livres et de vidéos très bien faites destinées aux auto-constructeurs, et des forums comme ceux là par exemple : 
+- [Vivre la nature](http://vivrelanature.teamgoo.net/f17-fabriquer-un-abri)
+- [On peut le faire](http://www.onpeutlefaire.com/forum/)
+
+#### Tester les propriétés de sa terre
+
+Si on veut construire en terre il va d’abord falloir tester la quantité d’argile que contient le sol.
+
+##### Les différents terres
+
+La terre à batir est constituée de grains de différentes tailles (cailloux, graviers, sables, limons, argiles), d'air et d'eau. La terre à cultiver contient en plus de la matière organique (végétaux et animaux).
+
+Les cailloux, graviers, sables et limons sont des grains plus ou moins arrondis de même nature. Seule leur taille varie et leur donne des noms différents.
+
+Les argiles sont des particules très fines et applaties. Elles réagissent avec l'eau pour coller tous les grains ensemble. Il en existe de plusieurs sortes (des colles très fortes et délicates à employer et des colles moins fortes mais d'usage plus facile).
+
+Les propriétés d'une terre viennent de la proportion de chacun de ses grains et du type d'argile.
+
+###### Le gravier, les cailloux
+
+Ils sont facilement reconnaissables par leur diamètre supérieur à 2 mm. Ils limitent les remontées d'eau par capillarité, c'est pourquoi ils sont utilisés dans les hérissons. Ils limitent aussi le retrait des liants qui les entourent, comme par exemple la terre ou le béton.
+
+###### La terre sableuse
+
+Une terre sableuse est une terre contenant une grande proportion de sable (particules de diamètre compris entre 0,06mm et 2mm) Le terrain sableux est très perméable. Il laisse donc facilement circuler l'eau sans gonfler et limite fortement les effets du gel. C'est une terre qui se draine automatiquement. L'eau assure la cohésion d'un sol. La terre sableuse manque donc de cohésion et s'effrite. Elle a une bonne capacité portante et est parfaite pour des fondations.
+
+###### La terre limoneuse (grande proportion de silt)
+
+La petite taille des particules de silt (entre 0,06 et 0,002mm) rend assez difficile la différenciation de la terre limoneuse avec l'argile. La terre limoneuse possède un bon degré de cohésion grâce à la friction des particules de silt. Cependant, en raison de leur perméabilité élevée, la terre limoneuse est plutôt sensible au gel.
+
+###### La terre argileuse
+
+La terre argileuse est souvent lourde car gonflée d'eau et a donc une grande inertie thermique. Elle est lente à se réchauffer au printemps, mais plus longue à se refroidir en hiver. Elle a donc tendance à adoucir le climat. Elle absorbe très lentement l'eau en gonflant et en devenant imperméable, elle la restitue aussi très lentement. Les pluies restent à sa surface en ravinant plus facilement tout autour.
+
+###### La terre organique
+
+On la trouve généralement dans les 35 premiers centimètres du sol. Parfois de couleur sombre : l'humus qui indique une décomposition avancée (appelée terre humifère), ou de couleur plus claire avec des parties végétales visible. C'est une terre qui change fortement de volume avec l'eau. Elle accepte jusqu'à 5 fois son volume d'eau et perd ainsi toute stabilité mécanique.
+
+##### tailles des particules :
+
+Le nombre de sols différents est infini. On peut cependant les classer en fonction de leur pourcentage de particule de différentes tailles :
+- la roche
+- les cailloux de 200mm à 20mm
+- les graviers de 20mm à 2mm
+- les sables de 2mm à 0,06mm
+- les silts 0,06mm à 0,002mm (donnent la terre limoneuse)
+- les argiles de 0,002mm à 0,000001mm
+
+#### Les tests d'identification
+
+##### Le test du pif
+
+C'est un test d'identification de consistance de la terre (grenu, fin).
+
+Ça n'est pas le test le plus fiable, cependant c'est le test le plus simple, et il est assez performant pour la plupart des terres.
+
+Séparer manuellement les gros cailloux et les graviers (supérieur à 2mm), si on a le courage les gros sables (supérieur à 1mm). On peut alors apprécier à l'oeil le pourcentage de chacune des familles et en déduire si le sol est grenu.
+
+Avec cet méthode, on repère aussi assez facilement un sol organique. Elle donne une première impression : terre fine, lisse ou au contraire très rugueuse.
+
+##### Le test du bocal
+
+C'est un test d'identification de composition de la terre (gravier, sable, silt, argile, organique).
+
+Le test du bocal est l'un des plus performant. Il repose sur une technique de sédimentation. Il permet de connaître le pourcentage volumique des cinq principales classes de particules d'une terre.
+
+Le choix d'un bocal svelte est un gain énorme en précision, car le gain en hauteur se traduit par un espacement des couches.
+
+- Remplier un bocal avec un quart de terre et complèter avec de l'eau pure en laissant un petit espace d'air pour agiter plus facilement
+- Refermer et on agiter énergiquement
+- Attendre une heure et agiter de nouveau
+- Les sables se déposent presque immédiatement
+- Après 45 minutes, on peut mesurer la couche de silt
+- Au bout de 8 heures, les argiles se sont déposées, on peut mesurer les différentes hauteurs
+
+##### Le test du toucher
+
+Le toucher permet de bien sentir les sables. En ajoutant un peu d'eau, les sensations sont plus précises.
+
+La terre limoneuse devient de plus en plastique. La terre argileuse devient complètement plastique et collante.
+
+##### Le test du goût et de l'odeur
+
+Voici le test des gourmands. On prend un petit peu de terre et on la renifle en l'écrasant puis on la mange.
+
+Attention tout de même aux différentes pollutions.
+
+- Si elle sent le moisi, c'est une terre organique. On peut vérifier nos déduction en humidifiant ou en chauffant la terre.
+- Si elle laisse une impression pâteuse, colle au palais c'est une terre argileuse.
+- Si elle ne colle pas, c'est une terre limoneuse.
+- Si la terre crisse désagréablement sous les dents, c'est une terre sableuse.
+
+##### Le test du lavage de main
+
+Très simple. Il suffit juste de sa laver les mains avec la terre.
+
+- Si les mains se rincent facilement, c'est une terre sableuse.
+- Si les mains laisse une impression de savon, difficile à rincer, c'est une terre argileuse.
+- Entre les deux, c'est une terre limoneuse.
+
+ ##### Le test d'adhérence à un couteau
+
+C'est un test d'identification de consistance de la terre (fortement argileux, faiblement argileux, limoneux, sableux).
+
+On fait une petite boule de terre humide de 3-4 cm de diamètre. On la malaxe jusqu'à ce qu'elle colle plus aux doigts. On enfonce la lame du couteau (comme pour tester si le gâteau est cuit).
+
+- Si le couteau entre et sort facilement de la boule, tout en laissant des traces sur la lame, c'est une terre faiblement argileuse.
+- Si Le couteau s'enfonce difficilement, tout en laissant des traces sur la lame, c'est une terre fortement argileuse.
+- Si la lame ressort indemne et presque propre, c'est une terre sableuse ou limoneuse. On coupe alors la boule en deux :
+ - Si la lame crisse, la terre est sableuse.
+ - Si l'éclat de la terre est brillant, la terre est limoneuse.
+
+ 
+
+    Le test du rouleau de terre
+
+Il s'agit d'un test de consistance qui mesure essentiellement la proportion d'argile de la terre.
+
+    On confectionne a partir de la terre fine une petite boule de 2-3 cm de diamètre humide mais non collante.
+
+    On la roule à la main et si le cordon casse avant d'atteindre un diamètre de 3mm on rajoute un peu d'eau et on recommence.
+
+    Quand la terre se roule jusqu'au diamètre des trois millimètre sans se casser, on reforme la boule
+
+    On écrase la boule
+
+    La boule s'écrase sans se fissurer : c'est une terre fortement argileuse
+
+    La boule s'écrase en se fissurant de partout : c'est une terre faiblement argileuse
+
+    La boule est difficile à reformer : c'est une terre limoneuse
+
+    La boule est spongieuse : c'est une terre organique.
+
+ 
+
+Les tests des propriétés de la terre :
+
+ 
+
+    Le test des pastilles
+
+     
+         
+
+        On prépare différents mélanges de terre plastique ( différentes terres, ajouts de paille, ajouts de sable...) et on place les mélange dans les moules et les pastilles et on laisse sécher. Lorsque c'est sec, on observe comment ils se sont rétractés. Lorsque l'eau s'évapore, les plaquettes d'argiles se rapprochent et avec elles les autres grains. La terre se rétracte.
+
+ 
+
+ 
+
+ 
+
+    Le test de plasticité
+
+     
+
+La plasticité d'une terre est sa capacité à subir des déformation sans casser ou sans même se fissurer. Cette valeur évolue avec la quantité d'eau du matériau.
+
+On prend une quantité donnée de terre et on ajoute une quantité d'eau différente pour chaque échantillon, on essaye de faire une colonne la plus haute possible à l'aide des mains
+
+avec chaque mélange; Ce test permet de mettre en évidence l'influence de l'eau dans les
+
+mélanges. Les argiles ont des formes de plaquettes et sont comparables à des plaques de verre.
+
+Si on met un peu d'eau entre deux plaques, on ne peux pas les décoller mais on peut les faire glisser l'une par rapport à l'autre. Quand il y un peu d'eau entre toutes les plaquettes d'argile, la terre est plastique. S'il n'y a pas assez d'eau, les plaquettes ne sont pas collées les unes avec les autres.
+
+ 
+
+Ces deux derniers tests montrent l'influence de l'eau et l'importance des amendements pour travailler une terre.
+
+ 
+
+Le test des mélanges pour les enduits:
+
+ 
+
+Afin d'éviter les fissurations dues au retrait ou l'effrittement dans un enduit trop sableux, on amende notre terre avec des fibres ( paille par exemple ) et du sable.
+
+On prépare un mélange de terre. Sur un panneau ou pan de mur, on réalise une petite surface d'enduit. On crée une sorte de tableau en réalisant des surfaces d'enduits dans lesquels on ajoute progressivement plus de sable à l'horizontal et plus de fibres à la verticale. Ce qui permet d'observer les réactions en fonction des amendements et de choisir le mélange le plus approprié. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Si vous avez 
 plus de 40 ou 50% d’argile
 , alors vous pouvez monter directement des murs avec ça,
