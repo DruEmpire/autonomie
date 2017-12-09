@@ -1,6 +1,11 @@
+Le contenu de ce guide est participatif, n'hésitez pas à contribuer :-) !
+
+
+
+
 # Autonomie
 
-Vivre libre : mode d’emploi de l’autonomie
+Vivre libre : guide de l’autonomie
 
 Comme nous n’avons aucun pouvoir pour faire changer le système, alors nous pouvons nous en
 passer tout simplement, et ne plus le financer. Sans consommateurs, le système n’existe plus. Les
