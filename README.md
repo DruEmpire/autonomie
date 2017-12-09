@@ -35,26 +35,19 @@ Selon la loi, ces terres sont `inconstructibles`, mais on à quand même le droi
 On peut aussi se faire classer comme structure touristique ou camping de moins de six place, quelques formalités en plus, mais là il est tout à fait légal d’installer des `structures démontables` comme les yourtes, caravanes ou bungalow (le terme `démontable` est un peu vague, et là aussi on peut jouer avec) et surtout, il n’y a pas d’impôts.
 
 ### Se la faire prêter
-Il existe des associations qui peuvent vous permettre d’accéder à la terre pour vraiment pas cher, ou même gratuitement si vous rêvez de vous reconvertir dans l’agriculture bio (Ou même mieux en permaculture) comme `terre de lien`, `passerelle éco` ou `le
-mouvement colibri`
-http://www.colibris-lemouvement.org/
-http://www.terredeliens.org/spip.php?page=accueil
-http://www.passerelleco.info/
+Il existe des associations qui peuvent vous permettre d’accéder à la terre pour vraiment pas cher, ou même gratuitement si vous rêvez de vous reconvertir dans l’agriculture bio (Ou même mieux en permaculture) comme [terre de lien](https://terredeliens.org/spip.php?page=accueil), [passerelle éco](
+http://www.passerelleco.info/) ou [le
+mouvement colibri](http://www.colibris-lemouvement.org)
 
-C’est des exemples, mais il y en a beaucoup d’autres, et si c’est ce que vous voulez, il est possible
-avec un beau projet bien fait d’avoir votre petit chez vous autonomiste et un travail assuré.
-Si vous préférez vivre dans les bois, il y a aussi l’Office National des Forêts (ONF) qui peut vous
-accorder un bail allant jusqu’à 99 ans pour être le garde forestier. (Souvent pas payé, faut pas rêver
-non plus) Avec l’autorisation, et même l’incitation à être autonome.
-http://www.onf.fr/
-On peut la squatter
-:
- Toutes les solutions d’avant sont totalement légale, il en reste pourtant une
-dernière qui elle, est illégale mais tolérée. C’est la solution qui est nettement la moins cher
-: le
-«
-squat
-» de villages, abandonnés après l’exode rural. Déjà parce qu’ils sont isolés au milieu de la
+Si vous préférez vivre dans les bois, il y a aussi l’[Office National des Forêts (ONF)](http://www.onf.fr/) qui peut vous accorder un bail allant jusqu’à 99 ans pour être le garde forestier. (Souvent pas payé, faut pas rêver non plus) Avec l’autorisation, et même l’incitation à être autonome.
+
+Ce sont des exemples, mais il y en a beaucoup d’autres, et si c’est ce que vous voulez il est possible avec un beau projet bien fait d’avoir votre petit chez vous autonomiste et un travail assuré.
+
+### La squatter
+
+Toutes les solutions présentées précédement sont totalement légales, il en reste pourtant une dernière est illégale mais tolérée. C’est la solution qui est nettement la moins cher.
+
+Le `squat` de villages, abandonnés après l’exode rural. Déjà parce qu’ils sont isolés au milieu de la
 campagne, en général en montagne dans des zones ou le tracteur ne passe pas bien et ou il n’y a pas
 de grandes étendues plates, personne ne viendra vous déloger tout simplement parce que personne
 n’a besoin de cette terre. Puis parce qu’il y reste des maisons encore debout, ou au moins les
