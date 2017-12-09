@@ -224,34 +224,25 @@ Afin d'éviter les fissurations dues au retrait ou l'effrittement dans un enduit
 - Ce qui permet d'observer les réactions en fonction des amendements et de choisir le mélange le plus approprié. 
 
 
+#### En fonctions des résultats de votre terre
 
+Si vous avez plus de 40 ou 50% d’argile, alors vous pouvez monter directement des murs avec ça, ils tiendront des siècles, comme ces vieilles maisons du moyen-âge encore debout aujourd’hui. [(Au Yémen ils font des tours jusqu’à 60m de haut avec cette
+technique. Pour dire que ça tient, et en plus c’est très joli)](http://www.linternaute.com/voyage/magazine/photo/yemen-la-beaute-farouche/hadramaout-couleur-terre.shtml)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-Si vous avez 
-plus de 40 ou 50% d’argile
-, alors vous pouvez monter directement des murs avec ça,
-ça tiendra des siècles
-: Comme ces vieilles maisons du moyen-âge encore debout aujourd’hui.
 L’essentiel étant que l’eau de pluie ne ruisselle pas dessus, donc un toit qui déborde bien et un bon
 drainage autour de la maison.
- (Au Yémen ils font des tours jusqu’à 60m de haut avec cette
-technique. Pour dire que ça tient, et en plus c’est très joli)
-Tour du Yémen
-: 
-http://www.linternaute.com/voyage/magazine/photo/yemen-la-beaute-farouche/hadramaout-
-couleur-terre.shtml
+
+
+
+
+
+
+
+
+
+ 
+
+
 Voilà un site qui explique en long et en large comment faire une maison en terre, et en BTC (brique
 de terre crue, qu’on fabrique grâce à une presse à main.)
 http://www.lamaisondurable.com/terre-crue.html
