@@ -171,77 +171,57 @@ On fait une petite boule de terre humide de 3-4 cm de diamètre. On la malaxe ju
 - Si le couteau entre et sort facilement de la boule, tout en laissant des traces sur la lame, c'est une terre faiblement argileuse.
 - Si Le couteau s'enfonce difficilement, tout en laissant des traces sur la lame, c'est une terre fortement argileuse.
 - Si la lame ressort indemne et presque propre, c'est une terre sableuse ou limoneuse. On coupe alors la boule en deux :
- - Si la lame crisse, la terre est sableuse.
- - Si l'éclat de la terre est brillant, la terre est limoneuse.
+	- Si la lame crisse, la terre est sableuse.
+	- Si l'éclat de la terre est brillant, la terre est limoneuse.
 
- 
-
-    Le test du rouleau de terre
+##### Le test du rouleau de terre
 
 Il s'agit d'un test de consistance qui mesure essentiellement la proportion d'argile de la terre.
 
-    On confectionne a partir de la terre fine une petite boule de 2-3 cm de diamètre humide mais non collante.
+- Confectionner à partir de la terre fine une petite boule de 2-3 cm de diamètre humide mais non collante
+- La rouler à la main
+	- Si le cordon casse avant d'atteindre un diamètre de 3mm on rajoute un peu d'eau et on recommence
+	- Si la terre se roule jusqu'au diamètre des trois millimètre sans se casser, on reforme la boule
+		- Écraser la boule
+		- Si la boule s'écrase sans se fissurer : c'est une terre fortement argileuse
+		- Si la boule s'écrase en se fissurant de partout : c'est une terre faiblement argileuse
+		- Si la boule est difficile à reformer : c'est une terre limoneuse
+		- Si la boule est spongieuse : c'est une terre organique
 
-    On la roule à la main et si le cordon casse avant d'atteindre un diamètre de 3mm on rajoute un peu d'eau et on recommence.
+#### Les tests des propriétés de la terre
 
-    Quand la terre se roule jusqu'au diamètre des trois millimètre sans se casser, on reforme la boule
+##### Le test des pastilles
 
-    On écrase la boule
+- Préparer différents mélanges de terre (différentes terres, ajouts de paille, ajouts de sable...)
+- Placer les mélange dans des moules
+- Laisser sécher
+- Lorsque c'est sec, observer comment ils se sont rétractés.
+- Lorsque l'eau s'évapore, les plaquettes d'argiles se rapprochent et avec elles les autres grains : la terre se rétracte.
 
-    La boule s'écrase sans se fissurer : c'est une terre fortement argileuse
+##### Le test de plasticité
 
-    La boule s'écrase en se fissurant de partout : c'est une terre faiblement argileuse
+La plasticité d'une terre est sa capacité à subir des déformation sans casser ou sans même se fissurer. Cette valeur évolue avec la quantité d'eau du matériau. Ce test permet de mettre en évidence l'influence de l'eau dans les mélanges.
 
-    La boule est difficile à reformer : c'est une terre limoneuse
+Les argiles ont des formes de plaquettes et sont comparables à des plaques de verre.
 
-    La boule est spongieuse : c'est une terre organique.
+- Prendre une quantité donnée de terre
+- Ajouter une quantité d'eau différente pour chaque échantillon
+- Essayer de faire une colonne la plus haute possible à l'aide des mains avec chaque mélange
 
- 
-
-Les tests des propriétés de la terre :
-
- 
-
-    Le test des pastilles
-
-     
-         
-
-        On prépare différents mélanges de terre plastique ( différentes terres, ajouts de paille, ajouts de sable...) et on place les mélange dans les moules et les pastilles et on laisse sécher. Lorsque c'est sec, on observe comment ils se sont rétractés. Lorsque l'eau s'évapore, les plaquettes d'argiles se rapprochent et avec elles les autres grains. La terre se rétracte.
-
- 
-
- 
-
- 
-
-    Le test de plasticité
-
-     
-
-La plasticité d'une terre est sa capacité à subir des déformation sans casser ou sans même se fissurer. Cette valeur évolue avec la quantité d'eau du matériau.
-
-On prend une quantité donnée de terre et on ajoute une quantité d'eau différente pour chaque échantillon, on essaye de faire une colonne la plus haute possible à l'aide des mains
-
-avec chaque mélange; Ce test permet de mettre en évidence l'influence de l'eau dans les
-
-mélanges. Les argiles ont des formes de plaquettes et sont comparables à des plaques de verre.
-
-Si on met un peu d'eau entre deux plaques, on ne peux pas les décoller mais on peut les faire glisser l'une par rapport à l'autre. Quand il y un peu d'eau entre toutes les plaquettes d'argile, la terre est plastique. S'il n'y a pas assez d'eau, les plaquettes ne sont pas collées les unes avec les autres.
-
- 
+- Si on met un peu d'eau entre deux plaques, on ne peux pas les décoller mais on peut les faire glisser l'une par rapport à l'autre
+- Si il y a un peu d'eau entre toutes les plaquettes d'argile, la terre est plastique
+- S'il n'y a pas assez d'eau, les plaquettes ne sont pas collées les unes avec les autres
 
 Ces deux derniers tests montrent l'influence de l'eau et l'importance des amendements pour travailler une terre.
 
- 
+##### Le test des mélanges pour les enduits:
 
-Le test des mélanges pour les enduits:
+Afin d'éviter les fissurations dues au retrait ou l'effrittement dans un enduit trop sableux, on amende notre terre avec des fibres (paille par exemple) et du sable.
 
- 
-
-Afin d'éviter les fissurations dues au retrait ou l'effrittement dans un enduit trop sableux, on amende notre terre avec des fibres ( paille par exemple ) et du sable.
-
-On prépare un mélange de terre. Sur un panneau ou pan de mur, on réalise une petite surface d'enduit. On crée une sorte de tableau en réalisant des surfaces d'enduits dans lesquels on ajoute progressivement plus de sable à l'horizontal et plus de fibres à la verticale. Ce qui permet d'observer les réactions en fonction des amendements et de choisir le mélange le plus approprié. 
+- Préparer un mélange de terre.
+- Sur un panneau ou pan de mur, réaliser une petite surface d'enduit.
+- Créer une sorte de tableau en réalisant des surfaces d'enduits dans lesquels on ajoute progressivement plus de sable à l'horizontal et plus de fibres à la verticale.
+- Ce qui permet d'observer les réactions en fonction des amendements et de choisir le mélange le plus approprié. 
 
 
 
