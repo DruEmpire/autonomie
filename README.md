@@ -1,2 +1,2 @@
-see \[langages list\]\(LANG.md\)
+see [langages list](/LANG.md)
 
