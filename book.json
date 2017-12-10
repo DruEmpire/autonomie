@@ -1,3 +1,5 @@
 {
-structure.summary: 'summary.md'
+	"structure": {
+		"summary": "summary.md"
+	}
 }
