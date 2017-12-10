@@ -1,2 +1,6 @@
-see [langages list](/LANG.md)
+# Languages
+
+* [French](/fr/README.md)
+
+
 
