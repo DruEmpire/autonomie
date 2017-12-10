@@ -1,6 +1,6 @@
-# Summary
+# Languages
 
-* [langage list](/LANG.md)
+* [French](fr/)
 
 
 
