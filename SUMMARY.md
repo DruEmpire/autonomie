@@ -1,6 +1,6 @@
 # Languages
 
-* [French](fr/)
+* [French](/fr/README.md)
 
 
 
