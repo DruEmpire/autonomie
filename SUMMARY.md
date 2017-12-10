@@ -1,13 +1,13 @@
 # Languages
 
 * [French](/fr/README.md)
-  * [Terrain](terre/)
-  * [Construire sa maison](construireSaMaison/)
-  * [Eau](eau/)
-  * [Nourriture](nourriture/)
-  * [Energie](energie/)
-  * [Dons](dons/)
-  * [À explorer pour aggrandir ce guide](aExplorer/)
+  * [Terrain](/fr/terre/README.md)
+  * [Construire sa maison](/fr/construireSaMaison/README.md)
+  * [Eau](/fr/eau/README.md)
+  * [Nourriture](/fr/nourriture/README.md)
+  * [Energie](/fr/energie/README.md)
+  * [Dons](/fr/dons/README.md)
+  * [À explorer pour aggrandir ce guide](/fr/aExplorer/README.md)
 
 
 
