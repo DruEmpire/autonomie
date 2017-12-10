@@ -14,13 +14,13 @@ Il y a pleins de truc que j’ai oublié sans doute, mais il y à là l’essent
 
 # Sommaire
 
-* [Le terrain](terre/README.md)
-* [Construire sa maison](construireSaMaison/README.md)
-* [L'eau](eau/README.md)
-* [La nourriture](nourriture/README.md)
-* [L'énergie](energie/README.md)
-* [Les dons](dons/README.md)
-* [À explorer pour agrandir ce guide](aExplorer/README.md)
+* [Le terrain](terre/)
+* [Construire sa maison](construireSaMaison/)
+* [L'eau](eau/)
+* [La nourriture](nourriture/)
+* [L'énergie](energie/)
+* [Les dons](dons/)
+* [À explorer pour agrandir ce guide](aExplorer/)
 
 
 
