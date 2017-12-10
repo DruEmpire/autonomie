@@ -12,5 +12,9 @@ Bien sûr, je ne connais pas tout, et si vous avez des infos, envoyez-les. C’e
 
 Il y a pleins de truc que j’ai oublié sans doute, mais il y à là l’essentiel. Ça m’a fait réviser et j’espère que ça sera utile à quelqu’un. L’autonomie est possible ! C’est pas la vie de château, mais mieux, et pour tout le monde. Du fauché intégral à celui qui a des économies. On n’a pas besoin d’être riche pour se lancer, ni d’être un bon bricoleur, il suffit d’en avoir envie et d’y aller. Le premier pas est le seul qui soit difficile. C’est ça que je voulais montrer.
 
+# Sommaire
+
+\[Le terrain\]\(terre/README.md\)
+
 
 
