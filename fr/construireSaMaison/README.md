@@ -1,6 +1,6 @@
 # La maison
 
-Une règle toute bête pour construire pas cher, c’est de faire sois même. La deuxième règle c’est de se servir des matériaux disponibles à portée de main ou de récup.
+Une règle toute bête pour construire gratuitement ou pas cher, c’est de faire sois même. La deuxième règle c’est de se servir des matériaux disponibles à portée de main ou de récup.
 
 On ne peut pas apprendre à faire une maison en un article, mais ce n’est quand même pas très compliqué, un peu de logique seulement. On peut aussi se faire aider par des gens qui s’y connaissent un peu plus en postant une annonce sur les sites de chantiers participatifs.
 
@@ -20,7 +20,7 @@ Pour chacune des techniques dont je vais parler il existe aussi des tas de livre
 
 ### Tester les propriétés de sa terre
 
-Si on veut construire en terre il va d’abord falloir tester la quantité d’argile que contient le sol.
+Si on veut construire en terre il peut être intéressant de tester la quantité d’argile que contient le sol.
 
 #### Les différentes terres
 
@@ -114,7 +114,7 @@ Très simple. Il suffit juste de se laver les mains avec la terre.
 - Si les mains laissent une impression de savon, difficile à rincer, c'est une terre argileuse.
 - Entre les deux, c'est une terre limoneuse.
 
- ##### Le test d'adhérence à un couteau
+##### Le test d'adhérence à un couteau
 
 C'est un test d'identification de consistance de la terre (fortement argileux, faiblement argileux, limoneux, sableux).
 
@@ -182,14 +182,13 @@ Afin d'éviter les fissurations dues au retrait ou l'effritement dans un enduit 
 
 Si vous avez plus de 40 ou 50% d’argile, alors vous pouvez monter directement des murs avec ça, ils tiendront des siècles comme ces vieilles maisons du moyen-âge encore debout aujourd’hui.
 
-[(Au Yémen ils font des tours jusqu’à 60m de haut avec cette
-technique. Pour dire que ça tient, et en plus c’est très joli)](http://www.linternaute.com/voyage/magazine/photo/yemen-la-beaute-farouche/hadramaout-couleur-terre.shtml). 
+[(Au Yémen ils font des tours jusqu’à 60m de haut avec cette technique. Pour dire que ça tient, et en plus c’est très joli)](http://www.linternaute.com/voyage/magazine/photo/yemen-la-beaute-farouche/hadramaout-couleur-terre.shtml). 
 
 L’essentiel étant que l’eau de pluie ne ruisselle pas dessus, donc un toit qui déborde bien et un bon drainage autour de la maison.
 
 #### Beaucoup de sable
 
-Si vous avez beaucoup de sable il vous reste le super-adobe ou éco-dôme.
+Si vous avez beaucoup de sable vous pouvez utiliser la technique du super-adobe ou éco-dôme.
 
 C’est comme les murs en sac de sable de l’armée (sacs en toile de jute ou en polypropylène tissé du genre sac à gravats), mais pour faire une maison. Ils sont maintenus solidaires entre eux par des barbelés, puis le tout est recouvert d’enduit. On trouve quelques info sur cette technique, mais pas assez. Si ça vous intéresse, le plus simple est d’acheter le livre de Nhader Kahlili, l’architecte qui a inventé ça. (la plupart des sites et des livres sont en anglais).
 
@@ -235,10 +234,11 @@ Un peu plus cher mais bien mieux que n’importe quelle maison conventionnelle. 
 
 Cela se monte tout seul, en quelque jours, mais il faut faire le toit avant les murs (ou bien bâcher contre la pluie pendant la construction)
 
-http://fr.wikipedia.org/wiki/Maison_en_paille
+[Maison en paille](http://fr.wikipedia.org/wiki/Maison_en_paille)
 
 Vous pouvez construire le mur en palette de récupération. Vous les remplissez de paille, vous enduisez d’un mélange argile/sciure/chaux sur les deux côtés et vous avez des murs isolés, jolis et montés en un clin d’œil.
-http://www.habitat-eco-responsable.fr/2008/11/la-maison-palette/
+
+[Maison en paille/palette](http://www.habitat-eco-responsable.fr/2008/11/la-maison-palette/)
 
 ## Les fondations
 
@@ -248,20 +248,21 @@ Si le néo-classique vous tente on peut aussi imaginer faire des colonnades avec
 
 ## Le toit
 
-Inutile pour l’éco-dôme justement parce qu’il n’y a pas de toit. Le dôme est tout simplement enduit à la chaux et lissé.
+Inutile pour l’éco-dôme justement parce qu’il n’y a pas de toit, le dôme étant tout simplement enduit à la chaux et lissé.
 
 ### Tuiles en terre cuite
 
-A moins que vous ayez un four capable de chauffer à plus de 1000C°, vous ne pourrez pas faire de tuiles en terre cuite.
+Si vous avez un four capable de chauffer à plus de 1000C°, vous pouvez faire des tuiles en terre cuite.
 
 ### Tavaillon
 
 Il reste le tavaillon, la tuile en bois. C’est étanche, ça dure une vingtaine d'année, facile à faire et à monter, pas cher et vous pouvez facilement changer quelques tuiles en cas de problème. Puis ça donne tout de suite un aspect sympathique. 
 
-Comme l’eau n’est pas stagnante il n'est pas néccéssaire de traiter le bois. Vous aurez des problèmes pour la récupération d’eau de pluie si vous décidez de traiter le bois quand même, à moins que vous ne traitiez avec un produit naturel.
+Vous aurez des problèmes pour la récupération d’eau de pluie si vous décidez de traiter le bois, à moins que vous le traitiez avec un produit naturel, cependant comme l’eau n’est pas stagnante il n'est pas néccéssaire de traiter le bois.
 
 On peut aussi en recouvrir les murs si on trouve ça joli.
-http://fr.wikipedia.org/wiki/Tavaillon
+
+[Tavaillon](http://fr.wikipedia.org/wiki/Tavaillon)
 
 ### Toiture végétale
 
@@ -273,10 +274,10 @@ La tôle, tout le monde comprend le concept... Ce n’est pas joli, mais pour la
 
 ### Le toit terrasse
 c’est de loin le plus compliqué à construire sous nos climats humides. Pas forcément le plus cher, juste le plus compliqué, mais ça peut être très chouette pour prendre l’apéro ^^
-- http://www.maisons-et-bois.com/discussions/viewtopic.php?pid=146675
-- http://www.forumconstruire.com/construire/topic-163092.php
+- [](http://www.maisons-et-bois.com/discussions/viewtopic.php?pid=146675)
+- [](http://www.forumconstruire.com/construire/topic-163092.php)
 
-Dans le deuxième ils abordent la question du prix.
+Dans le deuxième lien ils abordent la question du prix.
 
 ## La salle de bain
 
@@ -287,19 +288,20 @@ Pour fabriquer sois même son évier, bac de douche, baignoire, carrelage enduit
 #### Le tadelakt
 
 C'est juste de la chaux et du savon et une petite technique Marocaine. Y’a pleins de vidéo et de bouquins si ça vous intéresse. 
-http://fr.wikipedia.org/wiki/Tadelakt
+
+[Tadelakt](http://fr.wikipedia.org/wiki/Tadelakt)
 
 ## Les toilettes
 
-Au lieu de gaspiller 9L d'eau par tirage de la chasse...
+Au lieu de gaspiller 9L d'eau potable, et donc toute l'énergie nécessaire à sa purification, par chasse d'eau...
 
 ### Le trou au fond du jardin
 
 #### Les toilettes sèches
 
 Cela ne néccéssite qu'un bac et de la sciure. C’est tout bête et ça ne sent rien. **N’utilisez pas de papier
-blanchit ou teint si vous voulez le jeter dedans aussi.**
+blanchit ou teint si vous voulez le jeter dedans aussi.** Le mieux étant d'utiliser des feuilles de végétaux.
 
-Puisque c’est des matières organiques, si ça ne vous dégoûte pas trop, on peut en faire du méthane avec la méthode Jean Pain.
+Puisque c’est des matières organiques, si ça ne vous dégoûte pas trop, on peut en faire du méthane avec la [méthode Jean Pain](/fr/nourriture#la-méthanisation).
 
 On peut le composter et le renvoyer dans le potager, mais attention, il doit composter un an avant de pouvoir l’utiliser pour être sur qu’il n’y ait plus aucunes bactéries pathogène. Je vous conseille le compostage en tas allongé, mélangé à de la paille plutôt que dans un bac. C’est juste beaucoup plus pratique pour le retourner tout les six mois. Pas d’inquiétude, si votre compost est bien fait il ne sent pas mauvais.
