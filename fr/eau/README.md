@@ -71,3 +71,7 @@ marche.)
 ### La méthanisation
 
 voir [la méthanisation](/fr/nourriture#la-méthanisation)
+
+### La cuisinière à bois bouilleur
+
+Ce type de cuisinière propose plusieurs avantages : utilisation du bois, possibilité de cuisiner et chauffer de l'eau pouvant être utilisée comme eau chaude sanitaire (cuisine, salle de bain ou encore pour les radiateurs d'un chauffage central).
